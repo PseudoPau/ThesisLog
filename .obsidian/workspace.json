@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea2754180285aac",
+        "id": "09e7e0fcac11bb14",
         "type": "tabs",
         "children": [
           {
-            "id": "e2fa5b1aab8b0ce9",
+            "id": "4375d7a1296e594c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2022-11-22_Keep Setting Up.md",
+                "file": "Writing/Thesis Prospectus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0217a78375aa94fd",
+            "id": "fc6fbe56c51deda7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Logs/2022-11-22_Setting Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aadacf40bade7bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Thesis Prospectus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2022-11-22_Keep Setting Up.md",
+                "file": "Writing/Thesis Prospectus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2022-11-22_Keep Setting Up.md",
+                "file": "Writing/Thesis Prospectus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2022-11-22_Keep Setting Up.md"
+                "file": "Writing/Thesis Prospectus.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15863a76be46ba24",
+  "active": "aadacf40bade7bcb",
   "lastOpenFiles": [
-    "Logs/2022-11-22_Keep Setting Up.md",
-    "format your note.md",
+    "Logs/2022-11-22_Setting Up.md",
     "Logs/2022-11-21_Obsidian Learning.md",
-    "Agent.md",
-    "format your note/formatting.md",
-    "format your note/formatting 1.md",
-    "2022-11-11.md",
-    "Excalidraw/Drawing 2022-11-11 11.02.47.excalidraw.md",
+    "Writing/Operational Manual.md",
     "Untitled.md",
-    "Cinematic.md"
+    "Writing/Thesis Prospectus.md",
+    "Writing/Thesis.md",
+    "().md",
+    "Excalidraw/Drawing 2022-11-11 11.02.47.excalidraw.md",
+    "Logs/2022-11-22.md",
+    "README.md"
   ]
 }
