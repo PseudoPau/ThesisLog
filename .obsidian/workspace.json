@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "bd79016ef4cb9da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ea2754180285aac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2fa5b1aab8b0ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/2022-11-22_Keep Setting Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0217a78375aa94fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33e6df9d453aebed",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8607b7366961f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15863a76be46ba24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1712a18f9a17880a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0663ae711d3c5bc7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "424a7d3f06206d3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a26162e520a5d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bc3f75f37b9d63e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logs/2022-11-22_Keep Setting Up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80704486009d82f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logs/2022-11-22_Keep Setting Up.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7179eef358d62c4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "873d44e1aeee598a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logs/2022-11-22_Keep Setting Up.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "15863a76be46ba24",
+  "lastOpenFiles": [
+    "Logs/2022-11-22_Keep Setting Up.md",
+    "format your note.md",
+    "Logs/2022-11-21_Obsidian Learning.md",
+    "Agent.md",
+    "format your note/formatting.md",
+    "format your note/formatting 1.md",
+    "2022-11-11.md",
+    "Excalidraw/Drawing 2022-11-11 11.02.47.excalidraw.md",
+    "Untitled.md",
+    "Cinematic.md"
+  ]
+}
