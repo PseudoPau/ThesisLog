@@ -8,6 +8,8 @@
 - A Fictional Auction
 
 ### Quotes ###
+ **“Have no fear of perfection—you’ll never reach it.” –Salvador Dali**
+ **“Get rid of everything that is not essential to making a point.” –Christoph Niemann**
 
 ## Project Narrative ##
 
