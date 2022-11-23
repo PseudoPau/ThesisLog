@@ -52,16 +52,13 @@
 	- video
 	- audio
 	- model
-- Subjectivity
-- Human body
-- Cloud
-- Digital twin
+- Subjectivity-Objectivity
+	- Physical twin-Digital twin
+- Objectivity
 - geometry (non euclidean)
 - time
 - space
 - vision
-- human body
-- digital twin
 - materiality and immateriality
  
 #### The field of Study ####
