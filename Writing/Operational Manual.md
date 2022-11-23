@@ -6,10 +6,13 @@
 # Title #
 **/By the eye of the Cloud/**
 - A Fictional Auction
+*“Have no fear of perfection—you’ll never reach it.”*–Salvador Dali
 
 ### Quotes ###
- **“Have no fear of perfection—you’ll never reach it.” –Salvador Dali**
- **“Get rid of everything that is not essential to making a point.” –Christoph Niemann**
+
+*"One eye sees, the other feels."*-Paul Klee
+
+*In the final analysis, a drawing simply is no longer a drawing, no matter how self-sufficient its execution may be. It is a symbol, and the more profoundly the imaginary lines of projection meet higher dimensions, the better.*-Paul Klee
 
 ## Project Narrative ##
 
