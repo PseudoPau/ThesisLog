@@ -11,8 +11,12 @@
             "id": "eb92cf6bd7485ecc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Thesis Prospectus.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "424a7d3f06206d3a",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Writing/Thesis Prospectus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Writing/Thesis Prospectus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Writing/Thesis Prospectus.md"
+              }
             }
           }
         ]
@@ -130,14 +139,14 @@
   },
   "active": "eb92cf6bd7485ecc",
   "lastOpenFiles": [
+    "Logs/2022-11-22_Setting Up.md",
+    "Logs/2022-11-21_Obsidian Learning.md",
     "Reading notes/@colomina_are_2016.md",
     "Writing/Thesis.md",
     "Untitled.md",
     "Writing/Operational Manual.md",
     "Writing/Thesis Prospectus.md",
     "Excalidraw/Drawing 2022-11-22 19.01.26.excalidraw.md",
-    "Logs/2022-11-21_Obsidian Learning.md",
-    "Logs/2022-11-22_Setting Up.md",
     "Excalidraw/Drawing 2022-11-22 19.00.41.excalidraw.md",
     "Thesis Abstract.md"
   ]

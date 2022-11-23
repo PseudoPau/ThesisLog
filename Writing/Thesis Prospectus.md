@@ -23,7 +23,10 @@
 //1-3 paragraphs
 #### Problems####
 - our terms not well defined (architecture, architect,...)
-- 
+- Screens as critical built environment, traps for Homo sapiens. Lack the discourse in our domain
+- We occupy more land than we know. Part of our consciousness is in the form of gigabytes wandering in the open sea.
+- Staging globalization - the new clarification of “territory” is badly needed.
+
 #### Significance####
 - we are losing voice in public territory
 - we are missing 

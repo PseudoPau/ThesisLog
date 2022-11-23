@@ -7,7 +7,7 @@
 - [ ] Zine/Blog in Progress
 
 ## Goal for Today ##
-- [ ] Organize what I have
+- [x] Organize what I have
 - [x] Obsidian GitHub backup
 
 ### PublishPlatform ###
