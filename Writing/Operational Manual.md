@@ -2,5 +2,5 @@
 //a guideline to myself, all about operation and production
 
 ### Title ###
-By the eye of the Cloud
-- Fictional Mineshaft
+**By the eye of the Cloud**
+- A Fictional Auction
