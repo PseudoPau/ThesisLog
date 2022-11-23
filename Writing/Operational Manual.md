@@ -3,4 +3,4 @@
 
 ### Title ###
 By the eye of the Cloud
-- Digital Salon and Cyber Rococo
+- Digital Colosseum and Cyber Rococo
