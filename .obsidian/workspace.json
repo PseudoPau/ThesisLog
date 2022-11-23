@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09e7e0fcac11bb14",
+        "id": "372582d8e76721d1",
         "type": "tabs",
         "children": [
           {
-            "id": "4375d7a1296e594c",
+            "id": "eb92cf6bd7485ecc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Operational Manual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc6fbe56c51deda7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/2022-11-22_Setting Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aadacf40bade7bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/2022-11-21_Obsidian Learning.md",
+                "file": "Writing/Thesis Prospectus.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Operational Manual.md",
+                "file": "Writing/Thesis Prospectus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Operational Manual.md",
+                "file": "Writing/Thesis Prospectus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Operational Manual.md"
+                "file": "Writing/Thesis Prospectus.md"
               }
             }
           }
@@ -160,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4375d7a1296e594c",
+  "active": "eb92cf6bd7485ecc",
   "lastOpenFiles": [
-    "Writing/Thesis Prospectus.md",
-    "Writing/Operational Manual.md",
     "Writing/Thesis.md",
-    "Thesis Abstract.md",
+    "Writing/Operational Manual.md",
+    "Excalidraw/Drawing 2022-11-22 19.01.26.excalidraw.md",
     "Logs/2022-11-21_Obsidian Learning.md",
     "Logs/2022-11-22_Setting Up.md",
+    "Writing/Thesis Prospectus.md",
+    "Excalidraw/Drawing 2022-11-22 19.00.41.excalidraw.md",
+    "Thesis Abstract.md",
     "Untitled.md",
-    "().md",
-    "Excalidraw/Drawing 2022-11-11 11.02.47.excalidraw.md",
-    "Logs/2022-11-22.md"
+    "().md"
   ]
 }

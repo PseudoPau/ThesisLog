@@ -1,3 +1,5 @@
+#logss
+
 # Setting Up
 - Learning the Tools:
 	- Obsidian-> notes taking
@@ -25,7 +27,7 @@
 |---|---|
 |cell1|cell2|
 |cell3|cell4|
-|[[format your note\|formatting]]|[Link]()|
+|[[format your note\ |formatting]]|[Link]()|
 
 
 Bookmark: Footnote. Continue tomorrow

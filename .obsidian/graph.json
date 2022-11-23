@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Geopolitics",
+      "query": "Logss",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14570208
       }
     },
     {
-      "query": "",
+      "query": "Writingss",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "Drawingss",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.3222549722587593,
-  "close": true
+  "scale": 3.335743011583174,
+  "close": false
 }
