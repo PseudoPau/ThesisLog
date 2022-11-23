@@ -21,19 +21,49 @@
 
 ### Thesis Abstract ###
 //1-3 paragraphs
-#### Problems####
-- our terms not well defined (architecture, architect,...)
-- Screens as critical built environment, traps for Homo sapiens. Lack the discourse in our domain
-- We occupy more land than we know. Part of our consciousness is in the form of gigabytes wandering in the open sea.
-- Staging globalization - the new clarification of “territory” is badly needed.
+#### Problems and Significance####
+- **Screens**, as a critical built environment, are **traps** for Homo sapiens. There is a missing of the discourse in our domain.  
+- We occupy more **land** than we know. Part of our consciousness is in the form of gigabytes wandering in the open sea. Staging globalization - the new clarification of “territory” is badly needed.
+- We are losing our **identity** as architects if we don’t have a clear and uniformed definition of “architecture” and “architect” in this digital age.
+- Architects are in a very delicate position. We are aware of too much, however, the decision is not up to us.
+- Software architects will be fired when a product has been 95% racked.
+- No one cares about the **truth**. Or everyone has their own truth.
+- **Architecture time** is slower than solar time, slower than the human history time.
+- Architecture is a cluster of **visual stimuli**. It is like fashion but not fashion. After wandering around the visual “spectacles”, we realize our favorite is the non-object White on White.
+- Architecture is a human-centered discipline although more and more people consider our age as Post-Anthropocene, and are more interested in thinking about **architecture of non-human**.
 
-#### Significance####
-- we are losing voice in public territory
-- we are missing 
 ### Research Question and Hypothesis ###
 //Explanatory and Justificatory
 #### Broader Research Area ####
-
+- scales 
+	- global-geopolitics
+	- local-regional planning
+	- community-urban design
+	- building-architecture
+	- living kit-furniture design/interior design
+- documentation methods 
+	- cartography
+	- photography
+	- scan
+	- cabinet of curiosity
+	- archive
+- projection methods
+	- drawing
+	- video
+	- audio
+	- model
+- Subjectivity
+- Human body
+- Cloud
+- Digital twin
+- geometry (non euclidean)
+- time
+- space
+- vision
+- human body
+- digital twin
+- materiality and immateriality
+ 
 #### The field of Study ####
 
 #### My Specific Topic ####
