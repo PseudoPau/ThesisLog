@@ -22,9 +22,11 @@
 ### Thesis Abstract ###
 //1-3 paragraphs
 #### Problems####
-
+- our terms not well defined (architecture, architect,...)
+- 
 #### Significance####
-
+- we are losing voice in public territory
+- we are missing 
 ### Research Question and Hypothesis ###
 //Explanatory and Justificatory
 #### Broader Research Area ####
