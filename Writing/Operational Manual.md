@@ -18,7 +18,12 @@
 In the final analysis, a drawing simply is no longer a drawing, no matter how self-sufficient its execution may be. It is a symbol, and the more profoundly the imaginary lines of projection meet higher dimensions, the better.*-Paul Klee
 
 ## Project Narrative ##
+Architects and designers are facing problems when they are preparing a set of deliverables for a commission or a competition. 
+	1. Who is the audience to please?
+	2. How to apportion the energy in design and representation?
+	3. To what extent is a drawing considered presentable for others to see?
 
+The project tends to present the spectacle of architectural design and representation in the digital age by a fictional circus show.
 
 ## Project Logistics ##
 
