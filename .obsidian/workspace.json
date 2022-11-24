@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Operational Manual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a6922ae12d2a6ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading notes/Untitled.md",
+                "file": "Reading notes/latour_we_2018.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/Untitled.md",
+                "file": "Reading notes/latour_we_2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading notes/Untitled.md",
+                "file": "Reading notes/latour_we_2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading notes/Untitled.md"
+                "file": "Reading notes/latour_we_2018.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a6922ae12d2a6ba",
+  "active": "eb92cf6bd7485ecc",
   "lastOpenFiles": [
+    "Reading notes/Latour_We_Don't_Seem_to_Live_on_the_Same_Planet_20221123.md",
+    "Reading notes/latour_we_2018.md",
+    "Reading notes/latour_we_nodate-zotero.md",
+    "Reading notes/Untitled.md",
     "Writing/Operational Manual.md",
+    "latour_we_nodate - “Today, geopolitics is also concerned with wars over the definition of the stage itself. A conflict will be called, from.md",
     "Writing/Thesis Prospectus.md",
     "Writing/Thesis.md",
     "Logs/2022-11-22_Setting Up.md",
-    "Logs/2022-11-21_Obsidian Learning.md",
-    "Reading notes/@colomina_are_2016.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2022-11-22 19.01.26.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-22 19.00.41.excalidraw.md",
-    "Thesis Abstract.md"
+    "Logs/2022-11-21_Obsidian Learning.md"
   ]
 }
