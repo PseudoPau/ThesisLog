@@ -8,37 +8,51 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Logss",
+      "query": "logss",
       "color": {
         "a": 1,
-        "rgb": 14570208
+        "rgb": 14701138
       }
     },
     {
-      "query": "Writingss",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 5526240
+        "rgb": 14725458
       }
     },
     {
-      "query": "Drawingss",
+      "query": "readingss",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "writingss",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
+  "collapse-display": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.927632649739583,
-  "lineSizeMultiplier": 0.965913899739583,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.01881886089551638,
+  "scale": 2.8221893268045806,
   "close": false
 }
