@@ -19,6 +19,7 @@ In the final analysis, a drawing simply is no longer a drawing, no matter how se
 
 ## Project Narrative ##
 
+
 ## Project Logistics ##
 
 ## Draft Schedule ##
