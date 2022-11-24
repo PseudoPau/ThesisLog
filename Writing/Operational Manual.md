@@ -1,5 +1,5 @@
 #writingss
-//a guideline to myself, all about operation and production
+//a guide to myself, all about operation and production for the following 20 weeks before graduation.
 
 ---
 
@@ -22,10 +22,6 @@ In the final analysis, a drawing simply is no longer a drawing, no matter how se
 ## Project Logistics ##
 
 ## Draft Schedule ##
-|Week|Date|Task|Meeting|Due|
-|----|----|----|----|----|
-|Week00|12/2|Operational Manual Release|----|Thesis Brief|
-|Week01|12/9|----|----|----|
 
 
 
