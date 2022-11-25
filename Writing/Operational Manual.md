@@ -75,10 +75,16 @@ Assume one day the wall starts weathering. The physical doppelganger steps into 
 
 
 ## Mission 01 Bestiario##
+---
+
 If a lion could talk, we could not understand him.*Ludwig Wittgenstein*
 
+We have to recognise that only on the condition that we abandon the concept of the world can we possess the concept of a world.*Mark Cousins*
 
-This component aims to exam the prompted definition and assemble the spectacle world within a fast mode.
+---
+This component is inspired by Prof. Revillod's bestiari, which is originated for inventing fantasy stories. 
+In this stage, we are going to invent new urban creatures derived from a set of archetypes at various scales by construction and deconstruction using some digital technics. These artificial creatures that do not exist will be displayed in the Auction venue.
+This component aims to exam the prompted definition and assemble the spectacle world within a fast mode. 
 
 ![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
 *`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba`*
@@ -96,7 +102,8 @@ Mock Up: **W6** 20221224
 Due: **W10** 20230123
 
 ## Assignment 02 ##
-The model has been displaced as an image or object which imitates the designed objectyet-to-be. In a sense everything becomes a potential model.*Mar*
+The model has been displaced as an image or object which imitates the designed objectyet-to-be. In a sense everything becomes a potential model.*Mark Cousins*
+
 This component centered
 ### Design Methods ###
 ### Design Technics ###
