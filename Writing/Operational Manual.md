@@ -9,7 +9,7 @@
 
 ---
 ![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali](https://cdn.discordapp.com/attachments/1045538819161731102/1045546941611778090/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_e427e453-0957-4cbf-89f8-9b9d9f7e14e5.png)
-*`a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali ar 2.39:1 |Midjourney`*
+*`a fictional auction for circus animal audience in a renovated colosseum by the eye of time|Ghost Author: Midjourney + Salvador Dali`*
 
 ---
 
@@ -23,6 +23,8 @@ In the final analysis, a drawing simply is no longer a drawing, no matter how se
 
 ## Position ##
 
+![a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side](https://cdn.discordapp.com/attachments/1045538819161731102/1045719498793177238/PseudoPaul_a_thick_rococo_wall_is_weathering_with_a_physical_do_4678dd57-42d7-44c9-b267-22db34d7431c.png)
+*`a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side | Ghost Author: Midjourney + Francisco Goya`*
 
 Thesis is considered the last opportunity to recap years of learning and to examine the discipline and the program as both a spectator and participant. We are the products waiting for quarantine before entering the market.
 
@@ -36,6 +38,8 @@ Project conduction will be synchronized with the writing of thesis.
 
 The project will fictionalize a spectacle adventure and an auction at the site of (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
 ![a physical doppelganger looking at his digital doppelganger split by a mirror-like weathering thick wall Gustav Klimt|](https://cdn.discordapp.com/attachments/1045538819161731102/1045562094252204072/PseudoPaul_a_physical_doppelganger_looking_at_his_digital_doppe_8293c11e-31e5-4188-a976-fc69d507155a.png)  
+*`a physical doppelganger looking at his digital doppelganger through a weathering mirror | Ghost Author: Midjourney + Gustav Klimt`*
+
 There exists a physical doppelganger inhabiting the "here and now" and a digital doppelganger inhabiting the cloud, who occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. The two worlds are segregated by a nameless, invisible, thick wall, with only a few neurons stitching together.
 
 Assume one day the wall starts weathering. The physical doppelganger steps into the world of cloud and experiences several spectacles. They recognizes the mutilated digital one at an auction. Eventually they merge into one. The new individual possesses double territories with double vision.
@@ -71,10 +75,13 @@ Assume one day the wall starts weathering. The physical doppelganger steps into 
 
 
 ## Mission 01 Bestiario##
-This component aims to exam the definition and assemble the spectacle world within a short time. 
+If a lion could talk, we could not understand him.*Ludwig Wittgenstein*
+
+
+This component aims to exam the prompted definition and assemble the spectacle world within a fast mode.
 
 ![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
-
+*`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba`*
 
 ### Design Methods ###
 
@@ -89,6 +96,7 @@ Mock Up: **W6** 20221224
 Due: **W10** 20230123
 
 ## Assignment 02 ##
+The model has been displaced as an image or object which imitates the designed objectyet-to-be. In a sense everything becomes a potential model.*Mar*
 This component centered
 ### Design Methods ###
 ### Design Technics ###
