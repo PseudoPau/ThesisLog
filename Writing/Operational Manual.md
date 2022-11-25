@@ -5,7 +5,7 @@
 
 # By the eye of the Cloud #
 
-**A Fictional Auction**
+**A Spectacle Adventure and A Fictional Auction**
 
 ---
 ![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali ar 2.39:1|220](https://cdn.discordapp.com/attachments/1045538819161731102/1045546948641443940/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_04cbbc4b-c142-454f-a401-5adb8b02c729.png)  ![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali ar 2.39:1|220](https://cdn.discordapp.com/attachments/1045538819161731102/1045542832087236690/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_2d9e8bfd-33ba-4d50-b3af-368f14f4e311.png)  ![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali ar 2.39:1|220](https://cdn.discordapp.com/attachments/1045538819161731102/1045546941611778090/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_e427e453-0957-4cbf-89f8-9b9d9f7e14e5.png)
