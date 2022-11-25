@@ -34,15 +34,51 @@ Assume one day the wall starts weathering. The physical doppelganger steps into 
 
 
 ## Draft Schedule ##
+|W|Sa.-Fr.|School Schedule|Collective Pin-up|Check Point|
+|:----|:----|:----|:----|:----|
+|1|1119-1125|-|-|-|
+|2|1126-1202|-|Brief Due (Last Meeting Fall22)|Schedule_Manual_V1|
+|3|1203-1209|No Mandatory Work|-|-|
+|4|1210-1216|No Mandatory Work|-|-|
+|5|1217-1223|-|-|-|
+|6|1224-1230|Break|-|Scene|
+|7|1231-0106|-|-|Pin-up, Schedule_Manual_V2|
+|8|0107-0113|-|-|-|
+|9|0114-0120|Holiday(0116)|-|-|
+|10|0121-0127|-|-|Production_Session_1|
+|11|0128-0203|-|-|-|
+|12|0204-0210|-|-|-|
+|13|0211-0217|-|-|Production_Session_2|
+|14|0218-0224|-|-|-|
+|15|0225-0303|SpringBreak|-|-|
+|16|0304-0310|-|-|Production_Session_3|
+|17|0311-0317|-|-|-|
+|18|0318-0324|-|-|-|
+|19|0325-0331|-|-|-|
+|20|0401-0407|-|-|Post_Production|
+|21|0408-0414|-|-|-|
+|22|0415-0421|Final Class (0418)|-|-|
+|23|0422-0428|End|-|-|
 
 
 
-## Mission 01 ##
-This component centered
+## Mission 01 Bestiario##
+This component aims to exam the definition and assemble the spectacle world within a short time. 
+
+![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
+
+
 ### Design Methods ###
-### Design Technics ###
-### Resources ###
+
+### Design Tools ###
+Photoshop
+MidJourney
+
+### References ###
+
 ### Dates ###
+Release
+**Due: W
 
 ## Assignment 02 ##
 This component centered
