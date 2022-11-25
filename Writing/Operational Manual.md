@@ -74,26 +74,26 @@ Assume one day the wall starts weathering. The physical doppelganger steps into 
 
 
 
-## Mission 01 Bestiario##
----
+## Module 01 Bestiario##
+**Eyes Wide Open**
+
+![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
+*`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba*
 
 If a lion could talk, we could not understand him.*Ludwig Wittgenstein*
 
 We have to recognise that only on the condition that we abandon the concept of the world can we possess the concept of a world.*Mark Cousins*
 
 ---
-This component is inspired by Prof. Revillod's bestiari, which is originated for inventing fantasy stories. 
-In this stage, we are going to invent new urban creatures derived from a set of archetypes at various scales by construction and deconstruction using some digital technics. These artificial creatures that do not exist will be displayed in the Auction venue.
-This component aims to exam the prompted definition and assemble the spectacle world within a fast mode. 
 
-![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
-*`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba`*
+This component is inspired by Prof. Revillod's Animanarium, which is originated for training imagination for fantasy stories, and Paul Klee's puppet.
+In this stage, we are going to invent new urban creatures derived from a set of archetypes at various scales by construction and deconstruction using some digital technics. These artificial creatures will be partly flesh, partly mechanics, and partly digital. These non-existing artifacts will be the heroines for the Adventure, audience for the Auction, and part of the exhibition for the thesis review.
+This module aims to exam the prompted definition and assemble the spectacle world within a fast mode and should not last for more than 4 weeks.
+
 
 ### Design Methods ###
+The goal is to create a large number of objects via permutations and combinations.
 
-### Design Tools ###
-Photoshop
-MidJourney
 
 ### References ###
 
