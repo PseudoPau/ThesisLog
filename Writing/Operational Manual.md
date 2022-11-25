@@ -93,6 +93,8 @@ In this stage, we are going to invent new urban creatures derived from a set of 
 
 ### Design Methods ###
 **Automatism, Gestural Interpretation, Syntactical**
+![](https://cdn.discordapp.com/attachments/1045538819161731102/1045763556160831558/PseudoPaul_a_corridor_leading_people_from_Mordenism_to_Globaliz_afa9987d-2093-4e87-beb1-a220cc5b894a.png)
+*`An endless corridor leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand | Ghost Author: Midjourney + Tarkovsky`*
 
 This module aims to exam the prompted definition and assemble the spectacle world within a fast mode. The goal is to create a large number of objects via permutations and combinations in a short time and should not last for more than 4 weeks.
 The pursuit of rationality is important, but it is not the main purpose of this module. Therefore no more than 3 hours of adjustment time should be spent on individual individual adjustments after the generation of variants. Accept all the imperfections and move on.
@@ -123,10 +125,11 @@ Architecture must re-conceptualize the role that space as medium can play today 
 
 ### Design Methods ###
 **Content to form, Diagramming, Narrative**
+![](https://cdn.discordapp.com/attachments/1045538819161731102/1045762748396613652/PseudoPaul_spiral_staircase_leading_people_from_Mordenism_to_Gl_3fba9751-6324-463e-b328-35e9596deefa.png)
+*`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand | Ghost Author: Midjourney + Tarkovsky`*
 
 Start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Create a glitch pattern and fill them with appropriate random contents. Or stay non-object.
-
- 
+Remember audience have different levels of background and knowledge base. Accessibility is as important as attacking the attention. The purpose is to drill a well in people's mind.
 
 ### Resources ###
 ### Dates 
