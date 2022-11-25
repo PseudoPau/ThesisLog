@@ -8,9 +8,9 @@
 **A Fictional Auction**
 
 ---
-![](https://www.christies.com/en/lot/lot-5473896)
-![](https://www.christies.com/en/lot/lot-5473896)
-![](https://cdn.discordapp.com/attachments/1045538819161731102/1045542832087236690/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_2d9e8bfd-33ba-4d50-b3af-368f14f4e311.png)
+![|250](https://cdn.discordapp.com/attachments/1045538819161731102/1045546941611778090/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_e427e453-0957-4cbf-89f8-9b9d9f7e14e5.png)
+
+![|250](https://cdn.discordapp.com/attachments/1045538819161731102/1045542832087236690/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_2d9e8bfd-33ba-4d50-b3af-368f14f4e311.png)
 
 ## Quotes ##
 
@@ -29,6 +29,7 @@ The thesis will firstly illustrate the complexity and diversity of the current t
 Project conduction will be synchronized with the writing of thesis. 
 
 ## Narrative ##
+
 The project will fictionalize a spectacle adventure and an auction at the site of (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
 
 There exists a physical doppelganger inhabiting the "here and now" and a digital doppelganger inhabiting the cloud, who occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. The two worlds are segregated by a nameless, invisible, thick wall, with only a few neurons stitching together.
