@@ -8,6 +8,9 @@
 **A Fictional Auction**
 
 ---
+![](https://www.christies.com/en/lot/lot-5473896)
+![](https://www.christies.com/en/lot/lot-5473896)
+
 
 ## Quotes ##
 
@@ -77,8 +80,8 @@ MidJourney
 ### References ###
 
 ### Dates ###
-Release
-**Due: W
+Mock Up: **W6** 20221224
+Due: **W10** 20230123
 
 ## Assignment 02 ##
 This component centered
