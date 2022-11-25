@@ -10,7 +10,7 @@
 ---
 ![](https://www.christies.com/en/lot/lot-5473896)
 ![](https://www.christies.com/en/lot/lot-5473896)
-
+![](https://cdn.discordapp.com/attachments/1045538819161731102/1045542832087236690/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_2d9e8bfd-33ba-4d50-b3af-368f14f4e311.png)
 
 ## Quotes ##
 
