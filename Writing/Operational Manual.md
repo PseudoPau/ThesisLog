@@ -18,19 +18,12 @@
 In the final analysis, a drawing simply is no longer a drawing, no matter how self-sufficient its execution may be. It is a symbol, and the more profoundly the imaginary lines of projection meet higher dimensions, the better.*-Paul Klee
 
 ## Project Narrative ##
-The critical visual and verbal skills are not thoroughly taught in architecture schools as part of a curriculum, but as tacit knowledge that seems to be learned only from failures.
-The project attempts to portray the essential toolkits to operate a successful design through a fictional auction, and then to suggest a supplementary curriculum to increase the excellence rate for the design education pipelines.
 
-Architects and designers need to answer the following questions when they are preparing deliverables in order not to mess up a commission or a competition:
-	1. Who is the audience?
-	2. How to apportion the energy in design and representation?
-	3. To what extent is a drawing considered presentable?
-	4. What need to be highlighted?
-For occasions that require roadshows with audiences of different levels of profession, teams might suffer from a deeper anxiety: 
-	1. Who among the team would be the correct frontman?
-	2. What need to be conveyed in the limited time of presentation?
-	3. How to direct the audience's attention to the right spots?
-	4. How to talk about a project?
+Thesis is considered the last opportunity to recap years of learning and to examine the discipline and the program as both a spectator and participant.
+
+The critical visual and verbal presentation skills as well as the legal and financial knowledge to succeed in design practice are not thoroughly taught as part of a curriculum, but as tacit knowledge that can only be learned from struggles and failures.
+
+The project attempts to portray the imperfect design education outcomes and the supplementary toolkits to operate a successful real world project through a fictional auction.
 
 
 ## Project Logistics ##
