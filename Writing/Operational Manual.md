@@ -96,20 +96,24 @@ In this stage, we are going to invent new urban creatures derived from a set of 
 
 This module aims to exam the prompted definition and assemble the spectacle world within a fast mode. The goal is to create a large number of objects via permutations and combinations in a short time and should not last for more than 4 weeks.
 The pursuit of rationality is important, but it is not the main purpose of this module. Therefore no more than 3 hours of adjustment time should be spent on individual individual adjustments after the generation of variants. Accept all the imperfections and move on.
-2D drawing is good. 3D modeling is awesome. Manual gestures in Rhino, Blender, UnrealEngine are accepted. Parametric programing is welcomed. Don't afraid of messing up your desktop and fill the disk(c:) with trash. Trash has its own meaning for existing. 
+2D drawing is good. 3D modeling is awesome. Manual gestures in Rhino, Blender, UnrealEngine are accepted. Parametric programing is welcomed.
+Don't afraid of messing up your desktop and fill the disk(c:) with trash. Trash has its own meaning for existing. Logs will hold the logistics.
 
 ### References ###
 
 
 ### Dates ###
-Mock Up: **W6** 20221224
-Due: **W10** 20230123
+|----|Date|
+|----|----|
+|Mock Up| **W6** 20221224|
+|Due| **W10** 20230121|
 
 
 ## Mission 02 Staging Infinity ##
 **Stitching the Fragment**
 
 The model has been displaced as an image or object which imitates the designed object yet-to-be. In a sense everything becomes a potential model.*Mark Cousins*
+
 Architecture must re-conceptualise the role that space as medium can play today by rejecting the historical crutches that reinforce modern and postmodern rehashing...As technologies accelerate the collapse of space and time, architecture remains itself a form of resistance.*Theodore Spyropoulos*
 
 ---
@@ -117,9 +121,15 @@ Architecture must re-conceptualise the role that space as medium can play today 
 ### Design Methods ###
 ### Design Technics ###
 ### Resources ###
-### Dates ###
+### Dates 
+|----|Date|
+|----|----|
+|Mock Up| **W6** 20221224|
+|Checking Point| **W13** 20220211|
+|Due| **W16** 20230304
 
-## Mission 03 Framing the New Chapter ##
+
+## Mission 03 Continued Writing ##
 **a Chapter6 for Virilio's Vision Machine**
 
 ---
