@@ -74,7 +74,7 @@ Assume one day the wall starts weathering. The physical doppelganger steps into 
 
 
 
-## Module 01 Bestiario##
+## Mission 01 Bestiario##
 **Eyes Wide Open**
 
 ![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
@@ -88,29 +88,42 @@ We have to recognise that only on the condition that we abandon the concept of t
 
 This component is inspired by Prof. Revillod's Animanarium, which is originated for training imagination for fantasy stories, and Paul Klee's puppet.
 In this stage, we are going to invent new urban creatures derived from a set of archetypes at various scales by construction and deconstruction using some digital technics. These artificial creatures will be partly flesh, partly mechanics, and partly digital. These non-existing artifacts will be the heroines for the Adventure, audience for the Auction, and part of the exhibition for the thesis review.
-This module aims to exam the prompted definition and assemble the spectacle world within a fast mode and should not last for more than 4 weeks.
+
 
 
 ### Design Methods ###
-The goal is to create a large number of objects via permutations and combinations.
+**Analogic, Appropriation, Syntactical**
 
+This module aims to exam the prompted definition and assemble the spectacle world within a fast mode. The goal is to create a large number of objects via permutations and combinations in a short time and should not last for more than 4 weeks.
+The pursuit of rationality is important, but it is not the main purpose of this module. Therefore no more than 3 hours of adjustment time should be spent on individual individual adjustments after the generation of variants. Accept all the imperfections and move on.
+2D drawing is good. 3D modeling is awesome. Manual gestures in Rhino, Blender, UnrealEngine are accepted. Parametric programing is welcomed. Don't afraid of messing up your desktop and fill the disk(c:) with trash. Trash has its own meaning for existing. 
 
 ### References ###
+
 
 ### Dates ###
 Mock Up: **W6** 20221224
 Due: **W10** 20230123
 
-## Assignment 02 ##
-The model has been displaced as an image or object which imitates the designed objectyet-to-be. In a sense everything becomes a potential model.*Mark Cousins*
 
-This component centered
+## Mission 02 Staging Infinity ##
+**Stitching the Fragment**
+
+The model has been displaced as an image or object which imitates the designed object yet-to-be. In a sense everything becomes a potential model.*Mark Cousins*
+Architecture must re-conceptualise the role that space as medium can play today by rejecting the historical crutches that reinforce modern and postmodern rehashing...As technologies accelerate the collapse of space and time, architecture remains itself a form of resistance.*Theodore Spyropoulos*
+
+---
+
 ### Design Methods ###
 ### Design Technics ###
 ### Resources ###
 ### Dates ###
 
-## Assignment 03 ##
+## Mission 03 Framing the New Chapter ##
+**a Chapter6 for Virilio's Vision Machine**
+
+---
+
 This component centered
 ### Design Methods ###
 ### Design Technics ###
