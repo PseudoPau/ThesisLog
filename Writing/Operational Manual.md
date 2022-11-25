@@ -26,8 +26,9 @@ The thesis will firstly illustrate the complexity and diversity of the current t
 Project conduction will be synchronized with the writing of thesis. The project will attempt to portray the imperfect outcomes from design education pipeline (us), and the supplementary toolkits to operate a successful real world project through a fictional auction.
 
 ## Narrative ##
-There exists a physical doppelganger inhabiting the "here and now" and a digital doppelganger inhabiting the cloud, who occupy different territories, have different appearances and sizes, but share the same set of vision, perception and memory.
+There exists a physical doppelganger inhabiting the "here and now" and a digital doppelganger inhabiting the cloud, who occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. The two worlds are segregated by a nameless, invisible, thick wall, with only a few neurons stitching together.
 
+Assume one day the wall starts weathering. The physical doppelganger steps into the world of cloud and experiences several spectacles. They recognizes the mutilated digital one at an auction. Eventually they merge into one. The new individual possesses double territories with double vision.
 
 
 ## Draft Schedule ##
