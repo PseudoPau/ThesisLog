@@ -133,12 +133,9 @@ Digital optics is indeed a rational metaphor for intoxication, statistical intox
 *`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand | Ghost Author: Midjourney + Tarkovsky`*
 
 In this component, we start to build scenes for audience to perceive, and wander around. Imagine that we are building a temple that houses the collective consciousness. Every architectural element will be granted a symbolic meaning. Architecture serves as a framework to host the artifacts from mission 01. Time, velocity and acceleration need to be taken into account. Motion is important. Relation need to be clarified.
-But remember to keep mind simple and straightforward. Everybody thinks landfill is important but nobody really have an interest in unpacking that.
-
-
+But remember to keep the idea simple and straightforward. Get rid of the branches and only focus on the main line. Please keep the chaos in order.
 
 ### Resources ###
-
 
 
 ### Dates 
@@ -156,7 +153,6 @@ But remember to keep mind simple and straightforward. Everybody thinks landfill 
 
 ![](https://lebbeuswoods.files.wordpress.com/2009/12/kies-vm-2a2.jpg)
  *`kiesler's drawings for vision study (1950)`*
-
 
 Architecture must re-conceptualize the role that space as medium can play today by rejecting the historical crutches that reinforce modern and postmodern rehashing...As technologies accelerate the collapse of space and time, architecture remains itself a form of resistance.*Theodore Spyropoulos*
 
@@ -177,6 +173,12 @@ Struggles can be fun, such as the video game Resident Evil and Scorn. Have fun w
 We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Differentiate the geometric time, labor time and tour time. Learn something from Stalker. Create a glitch pattern and fill them with appropriate random contents. Practice the philosophy of greyboxing and  it's ok to stay non-object for sometime.
 
 ### Resources ###
+
+- Sonia Magdziarz (Director). (2018). How to Carve a Giant. [https://www.youtube.com/watch?v=RvD-mG1aPzI](https://www.youtube.com/watch?v=RvD-mG1aPzI) 
+- Bartlett Unit 24 
+- KIESLER’S DOUBLE VISION. . LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/](https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
+- Ebb Software. (2022). Scorn. [Video game].Kepler Interactive.
+- CAPCOM Co., Ltd. (2015). Residential Evil. [Video game].CAPCOM Co., Ltd. 
 
 
 
