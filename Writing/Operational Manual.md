@@ -122,7 +122,8 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 
 The model has been displaced as an image or object which imitates the designed object yet-to-be. In a sense everything becomes a potential model.*Mark Cousins*
 
-Architecture must re-conceptualize the role that space as medium can play today by rejecting the historical crutches that reinforce modern and postmodern rehashing...As technologies accelerate the collapse of space and time, architecture remains itself a form of resistance.*Theodore Spyropoulos*
+Digital optics is indeed a rational metaphor for intoxication, statistical intoxication, that is: a blurring of perception that affects the real as much as the figurative, as though our society were sinking into the darkness of a voluntary blindness, its will to digital power finally contaminating the horizon of sight as well as knowledge.*Paul Virilio*
+
 
 ---
 
@@ -131,10 +132,9 @@ Architecture must re-conceptualize the role that space as medium can play today 
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045762748396613652/PseudoPaul_spiral_staircase_leading_people_from_Mordenism_to_Gl_3fba9751-6324-463e-b328-35e9596deefa.png)
 *`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand | Ghost Author: Midjourney + Tarkovsky`*
 
-In this component, we start to build a stage for audience to look, perceive, and wander around. Point of view will be the key things, so as camera lens, frames per second, motion and light tones. In other words, we are designing for cameras, a mechanical vision.
-Think about narrative seriously. Should it be a first-person or a third-person? Remember different audiences have different levels of background and knowledge base. Accessibility is as important as attracting the attention.
-Struggles can be fun, such as the video game Resident Evil and Scorn. Have fun with these walking simulators!
-We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Differentiate the geometric time, labor time and tour time. Learn something from Stalker. Create a glitch pattern and fill them with appropriate random contents. Practice the philosophy of greyboxing and  it's ok to stay non-object for sometime.
+In this component, we start to build scenes for audience to perceive, and wander around. Imagine that we are building a temple that houses the collective consciousness. Every architectural element will be granted a symbolic meaning. Architecture serves as a framework to host the artifacts from mission 01. Time, velocity and acceleration need to be taken into account. Motion is important. Relation need to be clarified.
+But remember to keep mind simple and straightforward. Everybody thinks landfill is important but nobody really have an interest in unpacking that.
+
 
 
 ### Resources ###
@@ -157,18 +157,24 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 ![](https://lebbeuswoods.files.wordpress.com/2009/12/kies-vm-2a2.jpg)
  *`kiesler's drawings for vision study (1950)`*
 
-One eye sees. The other feels. *Paul Klee*
-Art does not reproduce the visible; rather it makes visible. *Paul Klee*
+
+Architecture must re-conceptualize the role that space as medium can play today by rejecting the historical crutches that reinforce modern and postmodern rehashing...As technologies accelerate the collapse of space and time, architecture remains itself a form of resistance.*Theodore Spyropoulos*
+
+In the face of such representational open slather, the philosophical questions of plausibility and implausibility override those concerning the true and the false. The shift of interest from the thing to its image, and especially from space to time, to the instant, leads to a shift in polarities from the old black-and-white real-figurative dichotomy to the more relative actual-virtual.*Paul Virilio*
 
 ---
 
-This component centered
 
 
 ### Design Methods ###
 **Analogic, Notation, Indexical**
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
 *`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom| Ghost Author: Midjourney + Tarkovsky`*
+
+Point of view will be the key things, so as camera lens, frames per second, motion and light tones. In other words, we are designing for cameras, a mechanical vision.
+Think about narrative seriously. Should it be a first-person or a third-person? Remember different audiences have different levels of background and knowledge base. Accessibility is as important as attracting the attention.
+Struggles can be fun, such as the video game Resident Evil and Scorn. Have fun with these walking simulators!
+We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Differentiate the geometric time, labor time and tour time. Learn something from Stalker. Create a glitch pattern and fill them with appropriate random contents. Practice the philosophy of greyboxing and  it's ok to stay non-object for sometime.
 
 ### Resources ###
 
