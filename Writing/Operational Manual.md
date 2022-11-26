@@ -74,6 +74,7 @@ Assume one day the wall starts weathering. The physical doppelganger steps into 
 
 
 
+
 ## Mission 01 Bestiario##
 **Eyes Wide Open**
 
@@ -111,6 +112,8 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 |Due| **W10** 20230121|
 
 
+
+
 ## Mission 02 Staging Infinity ##
 **Stitching the Fragment**
 
@@ -132,6 +135,9 @@ Start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good
 Remember audience have different levels of background and knowledge base. Accessibility is as important as attacking the attention. The purpose is to drill a well in people's mind.
 
 ### Resources ###
+
+
+
 ### Dates 
 |----|Date|
 |----|----|
@@ -140,16 +146,20 @@ Remember audience have different levels of background and knowledge base. Access
 |Due| **W16** 20230304
 
 
+
+
 ## Mission 03 Continued Writing ##
 **a Chapter 6 for Virilio's Vision Machine**
 
 ---
 
 This component centered
+
+
 ### Design Methods ###
 **Analogic, Notation, Indexical**
-
-
+![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
+*`**an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom| Ghost Author: Midjourney + Tarkovsky**`*
 
 ### Resources ###
 
