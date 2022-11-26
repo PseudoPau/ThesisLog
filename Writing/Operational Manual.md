@@ -103,7 +103,7 @@ The pursuit of rationality is important, but it is not the main purpose of this 
 Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. Even trash has its own meaning for existence. Trust the method and keep writing logs. They will hold the logistics.
 
 ### References ###
-
+- Cronenberg, D. (Director). (2022, June 3). _Crimes of the Future_ [Drama, Horror, Sci-Fi]. Serendipity Point Films, Téléfilm Canada, Ingenious Media.
 
 ### Dates ###
 |----|Date|
@@ -136,7 +136,10 @@ In this component, we start to build scenes for audience to perceive, and wander
 But remember to keep the idea simple and straightforward. Get rid of the branches and only focus on the main line. Please keep the chaos in order.
 
 ### Resources ###
-
+- Hockney, D. (2001). _Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters_ (1st ed.). Viking Studio.
+- Harmon, K. (2003). _You Are Here: Personal Geographies and Other Maps of the Imagination_ (1st ed.). Princeton Architectural Press.
+- Tarkovsky, A. (Director). (1980, April 17). _Stalker_ [Drama, Sci-Fi]. Mosfilm, Vtoroe Tvorcheskoe Obedinenie.
+- 
 
 ### Dates 
 |----|Date|
@@ -174,12 +177,11 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 
 ### Resources ###
 
-- Sonia Magdziarz (Director). (2018). How to Carve a Giant. [https://www.youtube.com/watch?v=RvD-mG1aPzI](https://www.youtube.com/watch?v=RvD-mG1aPzI) 
-- Bartlett Unit 24 
-- KIESLER’S DOUBLE VISION. . LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/](https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
-- Ebb Software. (2022). Scorn. [Video game].Kepler Interactive.
-- CAPCOM Co., Ltd. (2015). Residential Evil. [Video game].CAPCOM Co., Ltd. 
-
+- Virilio, P. (1994). _The Vision Machine (Perspectives)_ (Later Printing). Indiana University Press.
+- Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/](https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
+- Ebb Software. (2022). *Scorn* [Video game].Kepler Interactive.
+- CAPCOM Co., Ltd. (2015). *Residential Evil* [Video game].CAPCOM Co., Ltd.
+- RIBA Education. (2018, November 6). _How to Carve a Giant_ [Video]. YouTube. https://www.youtube.com/watch?v=RvD-mG1aPzI
 
 
 ### Dates ###
@@ -188,3 +190,8 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 |Mock Up| **W6** 20221224|
 |Checking Point| **W13** 20220211|
 |Due| **W19** 20230325
+
+
+## Bibliography ##
+
+
