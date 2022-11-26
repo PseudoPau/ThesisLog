@@ -44,6 +44,12 @@ There exists a physical doppelganger inhabiting the "here and now" and a digital
 
 Assume one day the wall starts weathering. The physical doppelganger steps into the world of cloud and experiences several spectacles. They recognizes the mutilated digital one at an auction. Eventually they merge into one. The new individual possesses double territories with double vision.
 
+## Resources##
+- Latour, B. (2018). *“We Don’t Seem to Live on the Same Planet” – A Fictional Planetarium.*
+- May, J. (2018). _Signal. Image. Architecture._ Columbia Books on Architecture and the City.
+- Bratton, B. H. (2016). _The Stack: On Software and Sovereignty_. Amsterdam University Press.
+- Alexander, Ç. Z., & May, J. (2020). _Design Technics: Archaeologies of Architectural Practice_ (1st ed.). Univ Of Minnesota Press.
+- Bratton, B. H., Boyadjiev, N., & Axel, N. (2021). _The New Normal_. Park Books.
 
 ## Draft Schedule ##
 |W|Sa.-Fr.|School Schedule|Collective Pin-up|Check Point|
@@ -104,6 +110,7 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 
 ### References ###
 - Cronenberg, D. (Director). (2022, June 3). _Crimes of the Future_ [Drama, Horror, Sci-Fi]. Serendipity Point Films, Téléfilm Canada, Ingenious Media.
+- 
 
 ### Dates ###
 |----|Date|
@@ -139,7 +146,6 @@ But remember to keep the idea simple and straightforward. Get rid of the branche
 - Hockney, D. (2001). _Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters_ (1st ed.). Viking Studio.
 - Harmon, K. (2003). _You Are Here: Personal Geographies and Other Maps of the Imagination_ (1st ed.). Princeton Architectural Press.
 - Tarkovsky, A. (Director). (1980, April 17). _Stalker_ [Drama, Sci-Fi]. Mosfilm, Vtoroe Tvorcheskoe Obedinenie.
-- 
 
 ### Dates 
 |----|Date|
@@ -178,10 +184,11 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 ### Resources ###
 
 - Virilio, P. (1994). _The Vision Machine (Perspectives)_ (Later Printing). Indiana University Press.
-- Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/](https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
+- Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
 - Ebb Software. (2022). *Scorn* [Video game].Kepler Interactive.
 - CAPCOM Co., Ltd. (2015). *Residential Evil* [Video game].CAPCOM Co., Ltd.
-- RIBA Education. (2018, November 6). _How to Carve a Giant_ [Video]. YouTube. https://www.youtube.com/watch?v=RvD-mG1aPzI
+- RIBA Education. (2018, November 6). _How to Carve a Giant_ [Video]. YouTube. [https://www.youtube.com/watch?v=RvD-mG1aPzI](https://www.youtube.com/watch?v=RvD-mG1aPzI)
+- Bush, L. (2016, January 18). The Blind Eye and the Vision Machine. _Disphotic_. [http://www.disphotic.com/the-blind-eye-and-the-vision-machine/](http://www.disphotic.com/the-blind-eye-and-the-vision-machine/)
 
 
 ### Dates ###
