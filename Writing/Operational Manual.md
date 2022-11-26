@@ -110,7 +110,11 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 
 ### References ###
 - Murugarren, M., & Sáez Castán, J. (2017). _Animalario universal del Profesor Revillod: Almanaque ilustrado de la fauna mundial : miscelánea de curiosidades para disfrutar aprendiendo_ (Primera edición). Fondo de Cultura Económica.
+- Haraway, D. J., & Wolfe, C. (2016). _Manifestly Haraway_. University of Minnesota Press.
+- Tsing, A. L. (2015). _The mushroom at the end of the world: On the possibility of life in capitalist ruins_. Princeton University press.
+- Corbusier, F. L. (2015). _The Modulor and Modulor 2_. Birkhäuser.
 - Cronenberg, D. (Director). (2022, June 3). _Crimes of the Future_ [Drama, Horror, Sci-Fi]. Serendipity Point Films, Téléfilm Canada, Ingenious Media.
+- _The Chemical Brothers Feat. Beck: Wide Open_. (2016, January 25). [Music]. Outsider.
 
 
 ### Dates ###
