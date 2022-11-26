@@ -109,8 +109,9 @@ The pursuit of rationality is important, but it is not the main purpose of this 
 Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. Even trash has its own meaning for existence. Trust the method and keep writing logs. They will hold the logistics.
 
 ### References ###
+- Murugarren, M., & Sáez Castán, J. (2017). _Animalario universal del Profesor Revillod: Almanaque ilustrado de la fauna mundial : miscelánea de curiosidades para disfrutar aprendiendo_ (Primera edición). Fondo de Cultura Económica.
 - Cronenberg, D. (Director). (2022, June 3). _Crimes of the Future_ [Drama, Horror, Sci-Fi]. Serendipity Point Films, Téléfilm Canada, Ingenious Media.
-- 
+
 
 ### Dates ###
 |----|Date|
@@ -146,6 +147,9 @@ But remember to keep the idea simple and straightforward. Get rid of the branche
 - Hockney, D. (2001). _Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters_ (1st ed.). Viking Studio.
 - Harmon, K. (2003). _You Are Here: Personal Geographies and Other Maps of the Imagination_ (1st ed.). Princeton Architectural Press.
 - Tarkovsky, A. (Director). (1980, April 17). _Stalker_ [Drama, Sci-Fi]. Mosfilm, Vtoroe Tvorcheskoe Obedinenie.
+- Fellini, F. (Director). (1983, October 7). _E la nave va(The Ship Sails On)_ [Drama, History, Music]. Rai 1, Vides Produzione, Gaumont.
+- RIBA Education. (2018, November 6). _How to Carve a Giant_ [Video]. YouTube. [https://www.youtube.com/watch?v=RvD-mG1aPzI](https://www.youtube.com/watch?v=RvD-mG1aPzI)
+
 
 ### Dates 
 |----|Date|
@@ -187,7 +191,6 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 - Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
 - Ebb Software. (2022). *Scorn* [Video game].Kepler Interactive.
 - CAPCOM Co., Ltd. (2015). *Residential Evil* [Video game].CAPCOM Co., Ltd.
-- RIBA Education. (2018, November 6). _How to Carve a Giant_ [Video]. YouTube. [https://www.youtube.com/watch?v=RvD-mG1aPzI](https://www.youtube.com/watch?v=RvD-mG1aPzI)
 - Bush, L. (2016, January 18). The Blind Eye and the Vision Machine. _Disphotic_. [http://www.disphotic.com/the-blind-eye-and-the-vision-machine/](http://www.disphotic.com/the-blind-eye-and-the-vision-machine/)
 
 
