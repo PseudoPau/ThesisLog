@@ -118,7 +118,7 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 **Stitching the Fragment**
 
 ![Damjan Jovanovic](https://freight.cargo.site/w/1500/q/75/i/15872414dc909ae241bf41f567a393b60f8529fb55c600f24d4916ef827918e4/2NCMlifeformsdotio.png)
-*`New Campo Marzio, lifeforms.io`*
+*`_New Campo Marzio—Lifeforms_. (2021). Retrieved November 25, 2022, from [https://lifeforms.io/New-Campo-Marzio-1](https://lifeforms.io/New-Campo-Marzio-1)`*
 
 The model has been displaced as an image or object which imitates the designed object yet-to-be. In a sense everything becomes a potential model.*Mark Cousins*
 
@@ -151,8 +151,14 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 
 
 
-## Mission 03 Continued Writing ##
+## Mission 03 Continued Writing##
 **a Chapter 6 for Virilio's Vision Machine**
+
+![](https://lebbeuswoods.files.wordpress.com/2009/12/kies-vm-2a2.jpg)
+ *`kiesler's drawings for vision study (1950)`*
+
+One eye sees. The other feels. *Paul Klee*
+Art does not reproduce the visible; rather it makes visible. *Paul Klee*
 
 ---
 
@@ -162,7 +168,7 @@ This component centered
 ### Design Methods ###
 **Analogic, Notation, Indexical**
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
-*`**an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom| Ghost Author: Midjourney + Tarkovsky**`*
+*`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom| Ghost Author: Midjourney + Tarkovsky`*
 
 ### Resources ###
 
