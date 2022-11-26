@@ -2,7 +2,7 @@
 
 ---
 
-**Latour, B. (2018). “We Don’t Seem to Live on the Same Planet” – A Fictional Planetarium. _BRUNO LATOUR_, 6.**
+Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fictional Planetarium._
 
 [pdf](http://www.bruno-latour.fr/sites/default/files/162-SEVEN-PLANETS-CZpdf.pdf)
 
@@ -12,11 +12,11 @@
 
 `“Today, geopolitics is also concerned with wars over the definition of the stage itself. A conflict will be called, from now on, “of planetary relevance” not because it has the planet for a stage, but because it is about which planet you are claiming to inhabit and defend.”` *(Latour, 2018, p. 1)*
 
-   It is important to frame the field and clarify the definition before we start a conversation in the fluid contemporary context. It is crucial to read the information behind the written words when given a commission from a client.
+   It is important to frame the field and clarify the definition before we start a conversation. It is crucial to read the information behind the written words when given a commission from a client to avoid trouble.
 
 `“The climate question is not one aspect of politics among others, but that which defines the political order from beginning to end, forcing all of us to redefine the older questions of social justice along with those of identity, subsistence, and attachment to place.”` *(Latour, 2018, p. 1)*
 
-   However, politics, economics, ideology, law and some other so-called “pearls of human civilization” become reasons to prevent human uniting together. Is everyone really equal speaking of Climate?
+   However, politics, economics, ideology, law and some other so-called “human civilization” become reasons to prevent human uniting together. Is everyone really equal speaking of Climate?
 
 `“Climate mutation means that the question of the land on which we all stand has come back into focus, hence the general political disorientation, especially for the left, which did not expect to have to talk again of “people” and “soil” — questions mostly abandoned to the right.”` *(Latour, 2018, p. 1)*
 

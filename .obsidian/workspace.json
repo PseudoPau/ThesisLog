@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Operational Manual.md",
+                "file": "Reading notes/Latour_We_2018.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "424a7d3f06206d3a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Operational Manual.md",
+                "file": "Reading notes/Latour_We_2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Operational Manual.md",
+                "file": "Reading notes/Latour_We_2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Operational Manual.md"
+                "file": "Reading notes/Latour_We_2018.md"
               }
             }
           }
@@ -139,12 +138,12 @@
   },
   "active": "1f12938c521687e3",
   "lastOpenFiles": [
-    "Writing/Thesis Prospectus.md",
-    "Logs/2022-11-22_Setting Up.md",
-    "Logs/2022-11-21_Obsidian Learning.md",
     "Writing/Operational Manual.md",
-    "Writing/Thesis.md",
     "Reading notes/Latour_We_2018.md",
+    "Logs/2022-11-22_Setting Up.md",
+    "Writing/Thesis.md",
+    "Writing/Thesis Prospectus.md",
+    "Logs/2022-11-21_Obsidian Learning.md",
     "Untitled.md",
     "latour_we_nodate - “Today, geopolitics is also concerned with wars over the definition of the stage itself. A conflict will be called, from.md",
     "Reading notes/Latour_We_Don't_Seem_to_Live_on_the_Same_Planet_20221123.md",

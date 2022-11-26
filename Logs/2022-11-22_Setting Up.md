@@ -3,7 +3,7 @@
 ## Reflection ##
 - [ ] [[Thesis Prospectus]]
 - [ ] [[Thesis]]
-- [ ] [[Operational Manual]]
+- [x] [[Operational Manual]]
 - [ ] Zine/Blog in Progress
 
 ## Goal for Today ##
