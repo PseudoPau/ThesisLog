@@ -117,8 +117,8 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 ## Mission 02 Staging Infinity ##
 **Stitching the Fragment**
 
-![Damjan Jovanovic](https://dmjn.net/images/projects/24_diorama/diorama_MainCamera_2017-12-02-13-06-48_2560x1440.png)
-*`Interactive architectural dioramas in Unity, Damjan Jovanovic`*
+![Damjan Jovanovic](https://freight.cargo.site/w/1500/q/75/i/15872414dc909ae241bf41f567a393b60f8529fb55c600f24d4916ef827918e4/2NCMlifeformsdotio.png)
+*`New Campo Marzio, lifeforms.io`*
 
 The model has been displaced as an image or object which imitates the designed object yet-to-be. In a sense everything becomes a potential model.*Mark Cousins*
 
@@ -131,8 +131,11 @@ Architecture must re-conceptualize the role that space as medium can play today 
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045762748396613652/PseudoPaul_spiral_staircase_leading_people_from_Mordenism_to_Gl_3fba9751-6324-463e-b328-35e9596deefa.png)
 *`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand | Ghost Author: Midjourney + Tarkovsky`*
 
-Start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Create a glitch pattern and fill them with appropriate random contents. Or stay non-object.
-Remember audience have different levels of background and knowledge base. Accessibility is as important as attacking the attention. The purpose is to drill a well in people's mind.
+In this component, we start to build a stage for audience to look, perceive, and wander around. Point of view will be the key things, so as camera lens, frames per second, motion and light tones. In other words, we are designing for cameras, a mechanical vision.
+Think about narrative seriously. Should it be a first-person or a third-person? Remember different audiences have different levels of background and knowledge base. Accessibility is as important as attracting the attention.
+Struggles can be fun, such as the video game Resident Evil and Scorn. Have fun with these walking simulators!
+We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Differentiate the geometric time, labor time and tour time. Learn something from Stalker. Create a glitch pattern and fill them with appropriate random contents. Practice the philosophy of greyboxing and  it's ok to stay non-object for sometime.
+
 
 ### Resources ###
 
