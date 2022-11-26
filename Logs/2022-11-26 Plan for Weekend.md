@@ -6,4 +6,5 @@
 - [ ] System Studio, Site Development + Walls Unfolding + 
 - [ ] 505 Wrapping Up
 - [ ] Obsidian Further Setting Up
+- [ ] Laundry
 ---
