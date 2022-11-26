@@ -5,9 +5,9 @@
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
+    "pageSize": "Tabloid",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 80
+    "downscalePercent": 100
   }
 }
