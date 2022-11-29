@@ -34,7 +34,7 @@ We have reasons to suspect that architecture is not a self-sufficient discipline
 
 An preliminary purpose of the thesis is to align our discipline with the contemporary context. Then the external stimuli to which we are exposed and the internal responses that arise during the learning of architecture will be examined.
 
-
+The ontology of architecture is difficult to identify. But this does not mean that the discipline itself is void. In this case, I would rather believe that architecture is a monument to energy and time, a physical projection of the immaterial world, a intersection of several other disciplines, or a cabinet of curiosity that encompasses everything.
 
 Project conduction will be synchronized with the writing of thesis. 
 
