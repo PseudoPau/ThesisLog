@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2022-11-26 Plan for Weekend.md",
+                "file": "Logs/2022-11-29 Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2022-11-26 Plan for Weekend.md",
+                "file": "Logs/2022-11-29 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2022-11-26 Plan for Weekend.md",
+                "file": "Logs/2022-11-29 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2022-11-26 Plan for Weekend.md"
+                "file": "Logs/2022-11-29 Plan.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "2a32223434e4ef64",
   "lastOpenFiles": [
+    "Logs/2022-11-26 Plan for Weekend.md",
     "Logs/2022-11-22_Setting Up.md",
     "Logs/2022-11-21_Obsidian Learning.md",
-    "Logs/2022-11-26 Plan for Weekend.md",
     "Writing/Operational Manual.md",
     "Reading notes/Latour_We_2018.md",
     "Writing/Thesis.md",
