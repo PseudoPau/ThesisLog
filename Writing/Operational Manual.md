@@ -40,13 +40,14 @@ Project conduction will be synchronized with the writing of thesis.
 
 ## Narrative ##
 
-The project will fictionalize a spectacle adventure and an auction at the site of (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
+*The project* will fictionalize a spectacle adventure and an auction at the site of (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
+
 ![a physical doppelganger looking at his digital doppelganger split by a mirror-like weathering thick wall Gustav Klimt|](https://cdn.discordapp.com/attachments/1045538819161731102/1045562094252204072/PseudoPaul_a_physical_doppelganger_looking_at_his_digital_doppe_8293c11e-31e5-4188-a976-fc69d507155a.png)  
 *`a physical doppelganger looking at his digital doppelganger through a weathering mirror | Ghost Author: Midjourney + Gustav Klimt`*
 
-There exists a physical doppelganger inhabiting the "here and now" and a digital doppelganger inhabiting the cloud, who occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. The two worlds are segregated by a nameless, invisible, thick wall, with only a few neurons stitching together.
+There exists a physical doppelganger inhabiting the "here and now" and a digital doppelganger inhabiting the cloud, who occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. The two worlds are segregated by an untitled invisible thick wall, with only a few neurons connecting both side.
 
-Assume one day the wall starts weathering. The physical doppelganger steps into the world of cloud and experiences several spectacles. They recognizes the mutilated digital one at an auction. Eventually they merge into one. The new individual possesses double territories with double vision.
+Walls can be interpreted as somewhat culture. The wall will weather, diverge, iterate itself and fall someday. When the physical doppelganger leave the "here and now" and steps into the world of cloud, they will experience spectacles as a looker and being looked-at at one time. When the two doppelgangers merge into one, the new individual possesses double territories with double vision.
 
 ## Resources##
 - Latour, B. (2018). *“We Don’t Seem to Live on the Same Planet” – A Fictional Planetarium.*
