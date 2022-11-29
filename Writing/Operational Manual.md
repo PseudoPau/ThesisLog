@@ -28,12 +28,12 @@ In the final analysis, a drawing simply is no longer a drawing, no matter how se
 
 *Thesis* is considered the last opportunity to summarize years of learning, to both view and participate in the our discipline academically. We are the products waiting to enter the market after "quarantine".
 
-Disciplinary speaking, architecture is similar to other disciplines that there is a significant detachment between institutional study and real-world practice. In other words, the knowledge learned in school will likely be of little use in the practice, while the critical visual, verbal, legal, and financial knowledge necessary to succeed in design practice is not adequately taught as part of a curriculum, but as tacit knowledge that can only be learned from struggles and failures. Who caused the situation? What can be improved?
+Disciplinary speaking, architecture is similar to other disciplines that there is a significant detachment between institutional study and real-world practice. In other words, the knowledge learned in school will likely be of little use in the practice, while the critical visual, verbal, legal, and financial knowledge necessary to succeed in design practice is not adequately taught as part of a curriculum, but as tacit knowledge that can only be learned from struggles and failures. Who caused the situation? What makes our learning so painful as an ordeal?
 
-An preliminary purpose of the thesis is to examine the external stimuli to which we are exposed and the internal responses that arise during the learning of architecture. 
-A new skill tree will be illustrated as part of the project and a supplementary curriculum will be suggested as part of the writing.
+We have reasons to suspect that architecture is not a self-sufficient discipline. There was little left on our curriculum once we stripped out courses that were appropriated from other disciplines. As a result, architecture students have a broader scope of focus and a more hairy skill tree than their peers. However, compared to those continuous multi-form inputs, our outputs (built or unbuilt building projects) is too homogeneous. Thus a new question arises: what is an appropriate method to publish an architect's idea?
 
-We have reasons to believe that architecture is a representation of other disciplines. architecture is not a We need to teach ourselves knowledge from other disciplines to complete an architectural project.
+An preliminary purpose of the thesis is to examine the external stimuli to which we are exposed and the internal responses that arise during the learning of architecture.
+
 Architecture is the intersection of other disciplines. Architecture is the projection of 
 
 Project conduction will be synchronized with the writing of thesis. 
