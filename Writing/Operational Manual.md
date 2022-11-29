@@ -30,11 +30,11 @@ In the final analysis, a drawing simply is no longer a drawing, no matter how se
 
 Disciplinary speaking, architecture is similar to other disciplines that there is a significant detachment between institutional study and real-world practice. In other words, the knowledge learned in school will likely be of little use in the practice, while the critical visual, verbal, legal, and financial knowledge necessary to succeed in design practice is not adequately taught as part of a curriculum, but as tacit knowledge that can only be learned from struggles and failures. Who caused the situation? What makes our learning so painful as an ordeal?
 
-We have reasons to suspect that architecture is not a self-sufficient discipline. There was little left on our curriculum once we stripped out courses that were appropriated from other disciplines. As a result, architecture students have a broader scope of focus and a more hairy skill tree than their peers. However, compared to those continuous multi-form inputs, our outputs (built or unbuilt building projects) is too homogeneous. Thus a new question arises: what is an appropriate method to publish an architect's idea?
+We have reasons to suspect that architecture is not a self-sufficient discipline. There was little left on our curriculum once we stripped out courses that were appropriated from other disciplines. As a result, architecture students have a broader scope of focus and a more hairy skill tree than their peers. However, our outputs (built or unbuilt building projects) is too homogeneous compared to those continuous multi-form inputs. Are we lacking imagination? Why are we voluntarily bound to the narrow territory of practice? Thus new questions arise: what is an appropriate way to publish an architectural idea? What is architecture?
 
-An preliminary purpose of the thesis is to examine the external stimuli to which we are exposed and the internal responses that arise during the learning of architecture.
+An preliminary purpose of the thesis is to align our discipline with the contemporary context. Then the external stimuli to which we are exposed and the internal responses that arise during the learning of architecture will be examined.
 
-Architecture is the intersection of other disciplines. Architecture is the projection of 
+
 
 Project conduction will be synchronized with the writing of thesis. 
 
