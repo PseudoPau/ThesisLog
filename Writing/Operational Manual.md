@@ -5,7 +5,7 @@
 
 # By the eye of the Cloud #
 
-**A Spectacle Adventure and A Fictional Auction**
+**A Spectacle Adventure and A Fictional Academy**
 
 ---
 ![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali](https://cdn.discordapp.com/attachments/1045538819161731102/1045546941611778090/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_e427e453-0957-4cbf-89f8-9b9d9f7e14e5.png)
@@ -40,14 +40,16 @@ Project conduction will be synchronized with the writing of thesis.
 
 ## Narrative ##
 
-*The project* will fictionalize a spectacle adventure and an auction at the site of (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
+*The project* will fictionalize a spectacle adventure at the site (00:00:00), an auction at the site of (x,y,z), and a cloud at the site of  (𝜌,𝜃,𝜁,𝜏). 
+
+The project will tell the adventure of a physical doppelganger who escapes the trap of culture and finds their digital doppelganger to merge into a complete individual who occupies the double space and has a double vision.
+
+By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
 
 ![a physical doppelganger looking at his digital doppelganger split by a mirror-like weathering thick wall Gustav Klimt|](https://cdn.discordapp.com/attachments/1045538819161731102/1045562094252204072/PseudoPaul_a_physical_doppelganger_looking_at_his_digital_doppe_8293c11e-31e5-4188-a976-fc69d507155a.png)  
 *`a physical doppelganger looking at his digital doppelganger through a weathering mirror | Ghost Author: Midjourney + Gustav Klimt`*
 
-There exists a physical doppelganger inhabiting the "here and now" and a digital doppelganger inhabiting the cloud, who occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. The two worlds are segregated by an untitled invisible thick wall, with only a few neurons connecting both side.
-
-Walls can be interpreted as somewhat culture. The wall will weather, diverge, iterate itself and fall someday. When the physical doppelganger leave the "here and now" and steps into the world of cloud, they will experience spectacles as a looker and being looked-at at one time. When the two doppelgangers merge into one, the new individual possesses double territories with double vision.
+The physical doppelganger originally inhabits the "here and now" and the digital doppelganger inhabits the cloud. The two twins don't realize the existence of each other at the beginning of the story. They occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. and are segregated by an untitled invisible thick wall, with only a few neurons connecting both side. Walls can be interpreted as somewhat culture. The wall will weather, diverge, iterate itself and fall someday. When the physical doppelganger leave the "here and now" and steps into the world of cloud, they will experience spectacles as a looker and being looked-at at one time. When the two doppelgangers merge into one, the new individual possesses double territories with double vision.
 
 ## Resources##
 - Latour, B. (2018). *“We Don’t Seem to Live on the Same Planet” – A Fictional Planetarium.*
@@ -87,7 +89,7 @@ Walls can be interpreted as somewhat culture. The wall will weather, diverge, it
 
 
 ## Mission 01 Bestiario##
-**Eyes Wide Open**
+**Eyes Wide Open, Creating Beasts**
 
 ![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
 *`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba*
@@ -132,7 +134,7 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 
 
 ## Mission 02 Staging Infinity ##
-**Stitching the Fragment**
+**By the Eye of the Cloud, World Modeling**
 
 ![Damjan Jovanovic](https://freight.cargo.site/w/1500/q/75/i/15872414dc909ae241bf41f567a393b60f8529fb55c600f24d4916ef827918e4/2NCMlifeformsdotio.png)
 *`_New Campo Marzio—Lifeforms_. (2021). Retrieved November 25, 2022, from [https://lifeforms.io/New-Campo-Marzio-1](https://lifeforms.io/New-Campo-Marzio-1)`*
@@ -170,8 +172,8 @@ But remember to keep the idea simple and straightforward. Get rid of the branche
 
 
 
-## Mission 03 Continued Writing##
-**a Chapter 6 for Virilio's Vision Machine**
+## Mission 03 Furnishing the Quarry ##
+**a Continued Writing for Vision Machine (Virilio, 1984), Academic Ambition**
 
 ![](https://lebbeuswoods.files.wordpress.com/2009/12/kies-vm-2a2.jpg)
  *`kiesler's drawings for vision study (1950)`*
@@ -211,6 +213,6 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 |Due| **W19** 20230325
 
 
-## Bibliography ##
+## Mission 04 Im ##
 
 
