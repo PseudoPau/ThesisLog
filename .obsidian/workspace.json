@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2022-11-29 Plan.md",
+                "file": "Writing/Operational Manual.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2022-11-29 Plan.md",
+                "file": "Writing/Operational Manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2022-11-29 Plan.md",
+                "file": "Writing/Operational Manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2022-11-29 Plan.md"
+                "file": "Writing/Operational Manual.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "2a32223434e4ef64",
   "lastOpenFiles": [
+    "Logs/2022-11-29 Plan.md",
     "Logs/2022-11-26 Plan for Weekend.md",
     "Logs/2022-11-22_Setting Up.md",
     "Logs/2022-11-21_Obsidian Learning.md",
@@ -146,7 +147,6 @@
     "Writing/Thesis.md",
     "Writing/Thesis Prospectus.md",
     "Untitled.md",
-    "latour_we_nodate - “Today, geopolitics is also concerned with wars over the definition of the stage itself. A conflict will be called, from.md",
-    "Reading notes/Latour_We_Don't_Seem_to_Live_on_the_Same_Planet_20221123.md"
+    "latour_we_nodate - “Today, geopolitics is also concerned with wars over the definition of the stage itself. A conflict will be called, from.md"
   ]
 }
