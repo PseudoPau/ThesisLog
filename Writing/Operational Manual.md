@@ -30,15 +30,11 @@ In the final analysis, a drawing simply is no longer a drawing, no matter how se
 
 Disciplinary speaking, architecture is similar to other disciplines that there is a significant detachment between institutional study and real-world practice. In other words, the knowledge learned in school will likely be of little use in the practice, while the critical visual, verbal, legal, and financial knowledge necessary to succeed in design practice is not adequately taught as part of a curriculum, but as tacit knowledge that can only be learned from struggles and failures. Who caused the situation? What can be improved?
 
-An preliminary purpose of the thesis is to examine the external stimuli to which we are exposed and the internal responses that arise during the learning of architecture.
+An preliminary purpose of the thesis is to examine the external stimuli to which we are exposed and the internal responses that arise during the learning of architecture. 
+A new skill tree will be illustrated as part of the project and a supplementary curriculum will be suggested as part of the writing.
 
-"Architect" will get a new definition by disassembling and reassembling the tool-box and skill-tree.
-
-Must admit that architecture is a term that is not easy to define.
-Staging the digital era, 
-What is the best method to publish an architect's idea? Whom are we presenting to? 
-
-Through a literature review, the change in the definition of architecture will be illustrated as part of the ambition. An alignment with other disciplines such as neuroscience, media, and visual art will be conducted as part of the scheme. Architects will be positioned as a looker being looked at, and a creator being created. The overall goal of the thesis is to re-clarify the scope of architectural practice and identify the elements that we can control.
+We have reasons to believe that architecture is a representation of other disciplines. architecture is not a We need to teach ourselves knowledge from other disciplines to complete an architectural project.
+Architecture is the intersection of other disciplines. Architecture is the projection of 
 
 Project conduction will be synchronized with the writing of thesis. 
 
