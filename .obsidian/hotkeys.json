@@ -8,5 +8,14 @@
       "key": "D"
     }
   ],
-  "obsidian-citation-plugin:insert-citation": []
+  "obsidian-citation-plugin:insert-citation": [],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-citation-plugin",
   "heatmap-calendar",
   "dataview",
-  "better-fn"
+  "better-fn",
+  "obsidian-footnotes"
 ]
