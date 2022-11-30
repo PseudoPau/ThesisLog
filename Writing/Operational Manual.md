@@ -109,11 +109,11 @@ This component is inspired by Prof. Revillod's Animanarium, which is originated 
 At this stage, we are going to invent new urban creatures derived from a set of archetypes at various scales by construction and deconstruction using some digital technics. These artificial creatures will be a blending of flesh(short life), mechanics(long life), and digital(eternal life). These artifacts will be the heroines to participate in the story.
 
 ### Design Methods ###
-**Automatism, Gestural Interpretation, Syntactical**[^5]
+**Automatism, Gestural Interpretation, Syntactical**[^g]
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045763556160831558/PseudoPaul_a_corridor_leading_people_from_Mordenism_to_Globaliz_afa9987d-2093-4e87-beb1-a220cc5b894a.png)
-*`An endless corridor leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand | Ghost Author: Midjourney + Tarkovsky`*
+*`An endless corridor leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand `*| Ghost Author: Midjourney + Tarkovsky[^h]
 
-This module aims to exam the prompted definition and assemble the spectacle world within a fast mode. The goal is to create a large number of objects via permutations and combinations in a short time and should not last for more than 4 weeks.
+This module aims to exam the ideas and assemble the spectacle world within a fast mode. The goal is to create a large number of objects via permutations and combinations in a short time and should not last for more than 4 weeks.
 The pursuit of rationality is important, but it is not the main purpose of this module. Therefore no more than 3 hours of adjustment time should be spent on individual individual adjustments after the generation of variants. Accept all the imperfections and move on.
 2D drawing is good. 3D modeling is awesome. Manual works in Rhino, Blender are accepted. Parametric programing is welcomed.
 Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. Even trash has its own meaning for existence. Trust the method and keep writing logs. They will hold the logistics.
@@ -142,9 +142,11 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 ![Damjan Jovanovic](https://freight.cargo.site/w/1500/q/75/i/15872414dc909ae241bf41f567a393b60f8529fb55c600f24d4916ef827918e4/2NCMlifeformsdotio.png)
 *`_New Campo Marzio—Lifeforms_. (2021). Retrieved November 25, 2022, from [https://lifeforms.io/New-Campo-Marzio-1](https://lifeforms.io/New-Campo-Marzio-1)`*
 
-The model has been displaced as an image or object which imitates the designed object yet-to-be. In a sense everything becomes a potential model.*Mark Cousins*
+The model has been displaced as an image or object which imitates the designed object yet-to-be. In a sense everything becomes a potential model.
+*(Mark Cousins, 2021)*
 
-Digital optics is indeed a rational metaphor for intoxication, statistical intoxication, that is: a blurring of perception that affects the real as much as the figurative, as though our society were sinking into the darkness of a voluntary blindness, its will to digital power finally contaminating the horizon of sight as well as knowledge.*Paul Virilio*
+Digital optics is indeed a rational metaphor for intoxication, statistical intoxication, that is: a blurring of perception that affects the real as much as the figurative, as though our society were sinking into the darkness of a voluntary blindness, its will to digital power finally contaminating the horizon of sight as well as knowledge.
+*(Paul Virilio, 1984, p.76)*[^5]
 
 
 ---
@@ -180,11 +182,13 @@ But remember to keep the idea simple and straightforward. Get rid of the branche
 **a Continued Writing for Vision Machine (Virilio, 1984), Academic Ambition**
 
 ![](https://lebbeuswoods.files.wordpress.com/2009/12/kies-vm-2a2.jpg)
- *`kiesler's drawings for vision study (1950)`*
+ *`kiesler's drawings for vision study (1950)`*[^6]
+[^i]
+Architecture must re-conceptualize the role that space as medium can play today by rejecting the historical crutches that reinforce modern and postmodern rehashing...As technologies accelerate the collapse of space and time, architecture remains itself a form of resistance.
+*(Theodore Spyropoulos, 2021, )*[^7]
 
-Architecture must re-conceptualize the role that space as medium can play today by rejecting the historical crutches that reinforce modern and postmodern rehashing...As technologies accelerate the collapse of space and time, architecture remains itself a form of resistance.*Theodore Spyropoulos*
-
-In the face of such representational open slather, the philosophical questions of plausibility and implausibility override those concerning the true and the false. The shift of interest from the thing to its image, and especially from space to time, to the instant, leads to a shift in polarities from the old black-and-white real-figurative dichotomy to the more relative actual-virtual.*Paul Virilio*
+In the face of such representational open slather, the philosophical questions of plausibility and implausibility override those concerning the true and the false. The shift of interest from the thing to its image, and especially from space to time, to the instant, leads to a shift in polarities from the old black-and-white real-figurative dichotomy to the more relative actual-virtual.
+*(Paul Virilio, 1984, )*
 
 ---
 
@@ -194,7 +198,7 @@ In the face of such representational open slather, the philosophical questions o
 **Analogic, Notation, Indexical**
 
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
-*`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom| Ghost Author: Midjourney + Tarkovsky`*
+*`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom`* | Ghost Author: Midjourney + Tarkovsky
 
 Point of view will be the key things, so as camera lens, frames per second, motion and light tones. In other words, we are designing for cameras, a mechanical vision.
 Think about narrative seriously. Should it be a first-person or a third-person? Remember different audiences have different levels of background and knowledge base. Accessibility is as important as attracting the attention.
@@ -265,6 +269,9 @@ To publish your world. To engage others.
 [^2]: - _animal fantástico del Profesor Revillod_ (By Ó. Alarcón). (2016). [Image] Neotraba. https://neotraba.com/animalario-universal-del-profesor-revillod/
 [^3]: Wittgenstein, L. (1953). _Philosophical investigations = philosophische untersuchungen_ (1st reprinted). Basil Blackwell.
 [^4]: Cousins, M. (2021). _Worlds Without End_ (Vol. 91, Issue 3, pp. 40–47). [https://doi.org/10.1002/ad.2691](https://doi.org/10.1002/ad.2691)
+[^5]: Virilio, P. (1994). _The Vision Machine (Perspectives)_ (Later Printing). Indiana University Press.
+[^6]:  Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
+
 
 ## Notes ##
 
@@ -273,7 +280,16 @@ To publish your world. To engage others.
 [^c]: - [Paul Klee(1879-1940)](https://en.wikipedia.org/wiki/Paul_Klee) was a Swiss-born German artist. His highly individual style was influenced by movements in art that included expressionism, cubism, and surrealism. Klee taught at the [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus "Bauhaus") from January 1921 to April 1931.
 
 [^b]: - [Salvador Dalí(1904-1988)](https://en.wikipedia.org/wiki/Salvador_Dali) was a Spanish [surrealist](https://en.wikipedia.org/wiki/Surrealism "Surrealism") artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work. His practice included painting, graphic arts, film, sculpture, design, photography, fashion and architecture at times in collaboration with other artists.
+
 [^d]: - [Francisco Goya(1746-1828)](https://en.wikipedia.org/wiki/Francisco_Goya) was a Spanish [romantic](https://en.wikipedia.org/wiki/Romanticism "Romanticism") painter and printmaker. Goya is often referred to as the last of the [Old Masters](https://en.wikipedia.org/wiki/Old_Master "Old Master") and the first of the [moderns](https://en.wikipedia.org/wiki/Modern_art "Modern art").
+
 [^e]: - [Gustav Klimt(1862-1918)](https://en.wikipedia.org/wiki/Gustav_Klimt) was an Austrian [symbolist](https://en.wikipedia.org/wiki/Symbolism_(arts) "Symbolism (arts)") painter and one of the most prominent members of the [Vienna Secession](https://en.wikipedia.org/wiki/Vienna_Secession "Vienna Secession") movement.
+
 [^f]: - [Bestiaro](https://www.goodreads.com/en/book/show/4978648-animalario-universal-del-profesor-revillod) plays with the boundaries between fiction and reality. The book was cut into 3 sections. A total of 4,096 combinations can be made with the 16 original illustrations.
-[^g]:- Perry Kulper's 14 Design Methods. 
+
+[^g]: - [Perry Kulper](https://taubmancollege.umich.edu/faculty/directory/perry-kulper)'s 14 Design Methods. 
+
+[^h]: -  [Andrei Tarkovsky(1932-1986)](https://en.wikipedia.org/wiki/Andrei_Tarkovsky) was a [Soviet](https://en.wikipedia.org/wiki/Soviet_Union "Soviet Union") filmmaker. His films explore spiritual and metaphysical themes, and are noted for their slow pacing and long takes, dreamlike visual imagery, and preoccupation with nature and memory. We will focus on _[Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film))_ (1979) and _[Nostalghia](https://en.wikipedia.org/wiki/Nostalghia "Nostalghia")_(1983) to learn time-space narrative and film composition.
+
+[^i]: - [Frederick Kiesler(1890-1965)](https://en.wikipedia.org/wiki/Frederick_John_Kiesler) was an Austrian-American architect, theoretician, theater designer, artist and sculptor. His works highlight the craftsmanship and ways of seeing. The drawing of Double Vision is one of the most important artifact for the project.
+[^7]: 
