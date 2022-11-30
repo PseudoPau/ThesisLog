@@ -15,7 +15,7 @@
 
 ## Quotes ##
 
-In the final analysis, a drawing simply is no longer a drawing, no matter how self-sufficient its execution may be. It is a symbol, and the more profoundly the imaginary lines of projection meet higher dimensions, the better.*-Paul Klee
+In the final analysis, a drawing simply is no longer a drawing, no matter how self-sufficient its execution may be. It is a symbol, and the more profoundly the imaginary lines of projection meet higher dimensions, the better.*-Paul Klee*[^This is an inline footnote]
 
 “Have no fear of perfection—you’ll never reach it.”*–Salvador Dali
 
@@ -260,3 +260,5 @@ To publish your world. To engage others.
 |Due| **W22** 20230415|
 
 ## Notes ##
+
+([^] My foot note)
