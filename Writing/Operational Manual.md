@@ -225,6 +225,7 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 **Time, Time, Time**
 
 ![](https://images.squarespace-cdn.com/content/v1/56911f0d0ab377deeecbd785/1515055627051-GHU6EA6DOZ2JO9A4TQRC/IMG_1312.JPG?format=1500w)
+
 *`Screenshot from Nostalighia, 1983, Tarkovsky`*[^9]
 
 It is time to jump into post-production and stitch everything together. This component we will focus on the time: solar time, labor time, media time, time stamps, time for seeing and time for thinking. How to differentiate the different velocities of decaying? Should we bring the past into the future? When we shift between platforms, what is changed and what is not?
