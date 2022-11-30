@@ -216,6 +216,18 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 
 
 ## Mission 04 What is Immortal ##
+**Time, Time, Time**
+
+It is time to jump into post-production and stitch everything together. This component we will focus on the time: solar time, labor time, model time, time for seeing and time for thinking. How to differentiate the different velocities of decaying?
+It is time to wrap things up and come up with a good set of displaying. 
 
 
+
+
+### Design Method ###
+
+
+![](https://cdn.discordapp.com/attachments/1047314004369997954/1047319488086953984/PseudoPaul_academic_conference_displaying_fake_memories_archite_2f262e33-6973-43ee-85a3-c7a3aed37bed.png)
+
+*`academic conference displaying fake memories, architects' toolsets, legs and arms of digital doppelgangers from 18th century to 21st century| Ghost Author: Midjourney + Tarkovsky`*
 
