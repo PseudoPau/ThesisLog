@@ -1,5 +1,5 @@
 #writingss
-//a guide to myself, all about operation and production for the following 20 weeks before graduation.
+//a tour guide to myself
 
 ---
 
@@ -148,6 +148,7 @@ Digital optics is indeed a rational metaphor for intoxication, statistical intox
 
 ### Design Methods ###
 **Content to form, Diagramming, Narrative**
+
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045762748396613652/PseudoPaul_spiral_staircase_leading_people_from_Mordenism_to_Gl_3fba9751-6324-463e-b328-35e9596deefa.png)
 *`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand | Ghost Author: Midjourney + Tarkovsky`*
 
@@ -188,6 +189,7 @@ In the face of such representational open slather, the philosophical questions o
 
 ### Design Methods ###
 **Analogic, Notation, Indexical**
+
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
 *`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom| Ghost Author: Midjourney + Tarkovsky`*
 
@@ -213,6 +215,7 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 |Due| **W19** 20230325
 
 
-## Mission 04 Im ##
+## Mission 04 What is Immortal ##
+
 
 
