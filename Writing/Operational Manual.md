@@ -50,7 +50,7 @@ The project will tell the adventure of a physical doppelganger who escapes the t
 By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
 
 ![a physical doppelganger looking at his digital doppelganger split by a mirror-like weathering thick wall Gustav Klimt|](https://cdn.discordapp.com/attachments/1045538819161731102/1045562094252204072/PseudoPaul_a_physical_doppelganger_looking_at_his_digital_doppe_8293c11e-31e5-4188-a976-fc69d507155a.png)  
-*`a physical doppelganger looking at his digital doppelganger through a weathering mirror`* | Ghost Author: Midjourney + Gustav Klimt[^e]
+*`a physical doppelganger looking at his digital doppelganger through a weathering mirror`* | Ghost Author: MidJourney[^a] + Gustav Klimt[^e]
 
 The physical doppelganger originally inhabits the "here and now" and the digital doppelganger inhabits the cloud. The two twins don't realize the existence of each other at the beginning of the story. They occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. and are segregated by an untitled invisible thick wall, with only a few neurons connecting both side. Walls can be interpreted as somewhat culture. The wall will weather, diverge, iterate itself and fall someday. When the physical doppelganger leave the "here and now" and steps into the world of cloud, they will experience spectacles as a looker and being looked-at at one time. When the two doppelgangers merge into one, the new individual possesses double territories with double vision.
 
@@ -111,7 +111,7 @@ At this stage, we are going to invent new urban creatures derived from a set of 
 ### Design Methods ###
 **Automatism, Gestural Interpretation, Syntactical**[^g]
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045763556160831558/PseudoPaul_a_corridor_leading_people_from_Mordenism_to_Globaliz_afa9987d-2093-4e87-beb1-a220cc5b894a.png)
-*`An endless corridor leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand `*| Ghost Author: Midjourney + Tarkovsky[^h]
+*`An endless corridor leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand `*| Ghost Author: MidJourney[^a] + Tarkovsky[^h]
 
 This module aims to exam the ideas and assemble the spectacle world within a fast mode. The goal is to create a large number of objects via permutations and combinations in a short time and should not last for more than 4 weeks.
 The pursuit of rationality is important, but it is not the main purpose of this module. Therefore no more than 3 hours of adjustment time should be spent on individual individual adjustments after the generation of variants. Accept all the imperfections and move on.
@@ -154,7 +154,7 @@ Digital optics is indeed a rational metaphor for intoxication, statistical intox
 **Content to form, Diagramming, Narrative**[^g]
 
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045762748396613652/PseudoPaul_spiral_staircase_leading_people_from_Mordenism_to_Gl_3fba9751-6324-463e-b328-35e9596deefa.png)
-*`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand`* | Ghost Author: Midjourney + Tarkovsky
+*`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand`* | Ghost Author: MidJourney[^a] + Tarkovsky[^h]
 
 In this component, we start to build scenes for audience to perceive, and wander around. Imagine that we are building a temple that houses the collective consciousness. Every architectural element will be granted a symbolic meaning. Architecture serves as a framework to host the artifacts from mission 01. Time, velocity and acceleration need to be taken into account. Motion is important. Relation need to be clarified.
 But remember to keep the idea simple and straightforward. Get rid of the branches and only focus on the main line. Please keep the chaos in order.
@@ -197,7 +197,7 @@ In the face of such representational open slather, the philosophical questions o
 **Analogic, Notation, Indexical**[^g]
 
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
-*`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom`* | Ghost Author: Midjourney + Tarkovsky
+*`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom`* | Ghost Author: Midjourney[^a] + Tarkovsky[^h]
 
 Point of view will be the key things, so as camera lens, frames per second, motion and light tones. In other words, we are designing for cameras, a mechanical vision.
 Think about narrative seriously. Should it be a first-person or a third-person? Remember different audiences have different levels of background and knowledge base. Accessibility is as important as attracting the attention.
@@ -238,7 +238,7 @@ It is time to jump into post-production and stitch everything together. This com
 
 ![](https://cdn.discordapp.com/attachments/1047314004369997954/1047319488086953984/PseudoPaul_academic_conference_displaying_fake_memories_archite_2f262e33-6973-43ee-85a3-c7a3aed37bed.png)
 
-*`academic conference displaying fake memories, architects' toolsets, legs and arms of digital doppelgangers from 18th century to 21st century`* | Ghost Author: Midjourney + Tarkovsky
+*`academic conference displaying fake memories, architects' toolsets, legs and arms of digital doppelgangers from 18th century to 21st century`* | Ghost Author: MidJourney[^a] + Tarkovsky[^h]
 
 But the model is not the world – to say the model is habitable does not mean we should go and live there. It is just a powerful way of seeing the world. 
 *(Davies, 2021, p.37)*[^10]
@@ -268,23 +268,34 @@ To publish your world. To engage others.
 |Due| **W22** 20230415|
 
 
-## Resources ##
-
-[^1]: Klee, P. (1964). _The Diaries of Paul Klee, 1898-1918_. University of California Press. p.183 
-[^2]: - _animal fantástico del Profesor Revillod_ (By Ó. Alarcón). (2016). [Image] Neotraba. https://neotraba.com/animalario-universal-del-profesor-revillod/
-[^3]: Wittgenstein, L. (1953). _Philosophical investigations = philosophische untersuchungen_ (1st reprinted). Basil Blackwell.
-[^4]: Cousins, M. (2021). _Worlds Without End_ (Vol. 91, Issue 3, pp. 40–47). [https://doi.org/10.1002/ad.2691](https://doi.org/10.1002/ad.2691)
-[^5]: Virilio, P. (1994). _The Vision Machine (Perspectives)_ (Later Printing). Indiana University Press.
-[^6]: Rehm, M. C. ; J. (2021). _Assembled Worlds: New Campo Marzio – Piranesi in the Age of AI_ (Vol. 92, Issue 3, pp. 80–85). [https://doi.org/10.1002/ad.2817](https://doi.org/10.1002/ad.2817)
-[^7]: Spyropoulos, T. (2021). _Everything You See is Yours: Step Towards the Certainty of Uncertainty_ (Vol. 91, Issue 3, pp. 64–73). [https://doi.org/10.1002/ad.2694](https://doi.org/10.1002/ad.2694)
-[^8]:  Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
-[^9]: Tarkovsky, A. (Director). (1983). _Nostalghia_ [Drama]. Rai 2, Sovinfilm.
-[^10]: Davies, K. (n.d.). _Polyphonic Dreams: Storytime in Synthetic Reality_ (Vol. 91, Issue 3, pp. 32–39). [https://doi.org/10.1002/ad.2690](https://doi.org/10.1002/ad.2690)
 
 
 ## Notes ##
 
-[^a]: - [MidJourney](https://www.midjourney.com/) is an independent research lab that produces a proprietary artificial intelligence program that creates images from textual descriptions.
+[^1]: Klee, P. (1964). _The Diaries of Paul Klee, 1898-1918_. University of California Press. p.183 
+
+[^2]: - _animal fantástico del Profesor Revillod_ (By Ó. Alarcón). (2016). [Image] Neotraba. https://neotraba.com/animalario-universal-del-profesor-revillod/
+
+[^3]: Wittgenstein, L. (1953). _Philosophical investigations = philosophische untersuchungen_ (1st reprinted). Basil Blackwell.
+
+[^4]: Cousins, M. (2021). _Worlds Without End_ (Vol. 91, Issue 3, pp. 40–47). [https://doi.org/10.1002/ad.2691](https://doi.org/10.1002/ad.2691)
+
+[^5]: Virilio, P. (1994). _The Vision Machine (Perspectives)_ (Later Printing). Indiana University Press.
+
+[^6]: Rehm, M. C. ; J. (2021). _Assembled Worlds: New Campo Marzio – Piranesi in the Age of AI_ (Vol. 92, Issue 3, pp. 80–85). [https://doi.org/10.1002/ad.2817](https://doi.org/10.1002/ad.2817)
+
+[^7]: Spyropoulos, T. (2021). _Everything You See is Yours: Step Towards the Certainty of Uncertainty_ (Vol. 91, Issue 3, pp. 64–73). [https://doi.org/10.1002/ad.2694](https://doi.org/10.1002/ad.2694)
+
+[^8]:  Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
+
+[^9]: Tarkovsky, A. (Director). (1983). _Nostalghia_ [Drama]. Rai 2, Sovinfilm.
+
+[^10]: Davies, K. (n.d.). _Polyphonic Dreams: Storytime in Synthetic Reality_ (Vol. 91, Issue 3, pp. 32–39). [https://doi.org/10.1002/ad.2690](https://doi.org/10.1002/ad.2690)
+
+[^11]: Brejzek, T. ; W. (2021). _Model & Fragment: On the Performance of Incomplete Architectures_ (Vol. 91, Issue 3, pp. 74–81). [https://doi.org/10.1002/ad.2695](https://doi.org/10.1002/ad.2695)
+
+
+[^a]: [MidJourney](https://www.midjourney.com/) is an independent research lab that produces a proprietary artificial intelligence program that creates images from textual descriptions.
 
 [^c]: - [Paul Klee(1879-1940)](https://en.wikipedia.org/wiki/Paul_Klee) was a Swiss-born German artist. His highly individual style was influenced by movements in art that included expressionism, cubism, and surrealism. Klee taught at the [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus "Bauhaus") from January 1921 to April 1931.
 
@@ -301,4 +312,4 @@ To publish your world. To engage others.
 [^h]: -  [Andrei Tarkovsky(1932-1986)](https://en.wikipedia.org/wiki/Andrei_Tarkovsky) was a [Soviet](https://en.wikipedia.org/wiki/Soviet_Union "Soviet Union") filmmaker. His films explore spiritual and metaphysical themes, and are noted for their slow pacing and long takes, dreamlike visual imagery, and preoccupation with nature and memory. We will focus on _[Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film))_ (1979) and _[Nostalghia](https://en.wikipedia.org/wiki/Nostalghia "Nostalghia")_(1983) to learn time-space narrative and film composition.
 
 [^i]: - [Frederick Kiesler(1890-1965)](https://en.wikipedia.org/wiki/Frederick_John_Kiesler) was an Austrian-American architect, theoretician, theater designer, artist and sculptor. His works highlight the craftsmanship and ways of seeing. The drawing of Double Vision is one of the most important artifact for the project.
-[^11]: 
+
