@@ -218,16 +218,45 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 ## Mission 04 What is Immortal ##
 **Time, Time, Time**
 
-It is time to jump into post-production and stitch everything together. This component we will focus on the time: solar time, labor time, model time, time for seeing and time for thinking. How to differentiate the different velocities of decaying?
-It is time to wrap things up and come up with a good set of displaying. 
+![](https://images.squarespace-cdn.com/content/v1/56911f0d0ab377deeecbd785/1515055627051-GHU6EA6DOZ2JO9A4TQRC/IMG_1312.JPG?format=1500w)
+*`Screenshot from Nostalighia, 1983, Tarkovsky`*
 
-
+It is time to jump into post-production and stitch everything together. This component we will focus on the time: solar time, labor time, media time, time stamps, time for seeing and time for thinking. How to differentiate the different velocities of decaying? Should we bring the past into the future? When we shift between platforms, what is changed and what is not?
+	Time is embedded in materiality. How to show them?
+	Time is embedded in production. How to show them?
+	Time is embedded in narrative. How to show them?
 
 
 ### Design Method ###
-
+**Diagramming, Narrative**
 
 ![](https://cdn.discordapp.com/attachments/1047314004369997954/1047319488086953984/PseudoPaul_academic_conference_displaying_fake_memories_archite_2f262e33-6973-43ee-85a3-c7a3aed37bed.png)
 
 *`academic conference displaying fake memories, architects' toolsets, legs and arms of digital doppelgangers from 18th century to 21st century| Ghost Author: Midjourney + Tarkovsky`*
 
+But the model is not the world – to say the model is habitable does not mean we should go and live there. It is just a powerful way of seeing the world. *Kate Davies*
+
+The architectural model-fragment in its manifestation on the stage and in exhibition is a novel phenomenon of our time in that it performs the postdramatic maxim of the deliberately unfinished, the made and the constructed. *Thea Brejzek and Lawrence Wallen*
+
+---
+
+It is time to wrap things up and come up with a good stage set for displaying. Who is the audience? What kind of fire would you like to set up? What should be shown and what should not? How to verbalize what you did in the past months?
+To publish your world. To engage others.
+
+### Resources ###
+
+- Virilio, P. (1994). _The Vision Machine (Perspectives)_ (Later Printing). Indiana University Press.
+- Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
+- Ebb Software. (2022). *Scorn* [Video game].Kepler Interactive.
+- CAPCOM Co., Ltd. (2015). *Residential Evil* [Video game].CAPCOM Co., Ltd.
+- Bush, L. (2016, January 18). The Blind Eye and the Vision Machine. _Disphotic_. [http://www.disphotic.com/the-blind-eye-and-the-vision-machine/](http://www.disphotic.com/the-blind-eye-and-the-vision-machine/)
+
+
+### Dates 
+|----|Date|
+|----|----|
+|Mock Up| **W6** 20221224|
+|Checking Point| **W20** 20220401|
+|Due| **W22** 20230415|
+
+## Notes ##
