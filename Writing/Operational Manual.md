@@ -9,17 +9,16 @@
 
 ---
 ![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali](https://cdn.discordapp.com/attachments/1045538819161731102/1045546941611778090/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_e427e453-0957-4cbf-89f8-9b9d9f7e14e5.png)
-*`a fictional auction for circus animal audience in a renovated colosseum by the eye of time|Ghost Author: Midjourney + Salvador Dali`*
+*`a fictional auction for circus animal audience in a renovated colosseum by the eye of time|Ghost Author: Midjourney[^a] + Salvador Dali[^b]`*
 
 ---
 
 ## Quotes ##
 
 In the final analysis, a drawing simply is no longer a drawing, no matter how self-sufficient its execution may be. It is a symbol, and the more profoundly the imaginary lines of projection meet higher dimensions, the better.
-*(Klee, 1964, p.183)* [^1]
-
+*(Klee, 1964, p.183)* [^1][^c]
 Have no fear of perfection—you’ll never reach it.
-*(Dalí, n.d.)* [^2]
+*(Dalí, n.d.)* 
 
 ---
 
@@ -261,14 +260,18 @@ To publish your world. To engage others.
 |Checking Point| **W20** 20220401|
 |Due| **W22** 20230415|
 
-## Notes ##
-
-ed
-
-[^1]: Quote from Klee, P. (1964). _The Diaries of Paul Klee, 1898-1918_. University of California Press. Paul Klee, 
-
-[^2]: f
 
 ## Bibliography ##
 
-Klee, P. (1964). _The Diaries of Paul Klee, 1898-1918_. University of California Press. 
+[^1]: Klee, P. (1964). _The Diaries of Paul Klee, 1898-1918_. University of California Press. p.183 
+
+
+
+## Notes ##
+
+[^a]: http[MidJourney](https://www.midjourney.com/) is 
+
+[^c]: Paul [Klee(1879-1940)](https://en.wikipedia.org/wiki/Paul_Klee) was a Swiss-born German artist. His highly individual style was influenced by movements in art that included expressionism, cubism, and surrealism. Klee taught at the [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus "Bauhaus") from January 1921 to April 1931.
+
+[^b]: Salvador [Dalí(1904-1988)](https://en.wikipedia.org/wiki/Salvador_Dali) was a Spanish [surrealist](https://en.wikipedia.org/wiki/Surrealism "Surrealism") artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work. His practice included painting, graphic arts, film, sculpture, design, photography, fashion and architecture at times in collaboration with other artists.
+

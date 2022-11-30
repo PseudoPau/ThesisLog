@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "17616e3083c5501a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c60d8e5586c569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Operational Manual.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
