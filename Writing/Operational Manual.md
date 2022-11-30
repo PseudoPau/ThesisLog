@@ -25,7 +25,7 @@ Have no fear of perfection—you’ll never reach it.
 ## Position ##
 
 ![a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side](https://cdn.discordapp.com/attachments/1045538819161731102/1045719498793177238/PseudoPaul_a_thick_rococo_wall_is_weathering_with_a_physical_do_4678dd57-42d7-44c9-b267-22db34d7431c.png)
-*`a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side `*| Ghost Author: Midjourney + Francisco Goya[^d]
+*`a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side `*| Ghost Author: MidJourney[^a] + Francisco Goya[^d]
 
 *Thesis* is considered the last opportunity to summarize years of learning, to both view and participate in the our discipline academically. We are the products waiting to enter the market after "quarantine".
 
@@ -124,7 +124,6 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 - Tsing, A. L. (2015). _The mushroom at the end of the world: On the possibility of life in capitalist ruins_. Princeton University press.
 - Corbusier, F. L. (2015). _The Modulor and Modulor 2_. Birkhäuser.
 - Cronenberg, D. (Director). (2022, June 3). _Crimes of the Future_ [Drama, Horror, Sci-Fi]. Serendipity Point Films, Téléfilm Canada, Ingenious Media.
-- _The Chemical Brothers Feat. Beck: Wide Open_. (2016, January 25). [Music]. Outsider.
 
 
 ### Dates ###
@@ -140,7 +139,7 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 **By the Eye of the Cloud, World Modeling**
 
 ![Damjan Jovanovic](https://freight.cargo.site/w/1500/q/75/i/15872414dc909ae241bf41f567a393b60f8529fb55c600f24d4916ef827918e4/2NCMlifeformsdotio.png)
-*`_New Campo Marzio—Lifeforms_. (2021). Retrieved November 25, 2022, from [https://lifeforms.io/New-Campo-Marzio-1](https://lifeforms.io/New-Campo-Marzio-1)`*
+*`_New Campo Marzio—Lifeforms_. (2021). Retrieved November 25, 2022, from [https://lifeforms.io/New-Campo-Marzio-1](https://lifeforms.io/New-Campo-Marzio-1)`*[^6]
 
 The model has been displaced as an image or object which imitates the designed object yet-to-be. In a sense everything becomes a potential model.
 *(Mark Cousins, 2021)*
@@ -152,10 +151,10 @@ Digital optics is indeed a rational metaphor for intoxication, statistical intox
 ---
 
 ### Design Methods ###
-**Content to form, Diagramming, Narrative**
+**Content to form, Diagramming, Narrative**[^g]
 
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045762748396613652/PseudoPaul_spiral_staircase_leading_people_from_Mordenism_to_Gl_3fba9751-6324-463e-b328-35e9596deefa.png)
-*`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand | Ghost Author: Midjourney + Tarkovsky`*
+*`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand`* | Ghost Author: Midjourney + Tarkovsky
 
 In this component, we start to build scenes for audience to perceive, and wander around. Imagine that we are building a temple that houses the collective consciousness. Every architectural element will be granted a symbolic meaning. Architecture serves as a framework to host the artifacts from mission 01. Time, velocity and acceleration need to be taken into account. Motion is important. Relation need to be clarified.
 But remember to keep the idea simple and straightforward. Get rid of the branches and only focus on the main line. Please keep the chaos in order.
@@ -165,7 +164,7 @@ But remember to keep the idea simple and straightforward. Get rid of the branche
 - Harmon, K. (2003). _You Are Here: Personal Geographies and Other Maps of the Imagination_ (1st ed.). Princeton Architectural Press.
 - Tarkovsky, A. (Director). (1980, April 17). _Stalker_ [Drama, Sci-Fi]. Mosfilm, Vtoroe Tvorcheskoe Obedinenie.
 - Fellini, F. (Director). (1983, October 7). _E la nave va(The Ship Sails On)_ [Drama, History, Music]. Rai 1, Vides Produzione, Gaumont.
-- RIBA Education. (2018, November 6). _How to Carve a Giant_ [Video]. YouTube. [https://www.youtube.com/watch?v=RvD-mG1aPzI](https://www.youtube.com/watch?v=RvD-mG1aPzI)
+-
 
 
 ### Dates 
@@ -182,20 +181,20 @@ But remember to keep the idea simple and straightforward. Get rid of the branche
 **a Continued Writing for Vision Machine (Virilio, 1984), Academic Ambition**
 
 ![](https://lebbeuswoods.files.wordpress.com/2009/12/kies-vm-2a2.jpg)
- *`kiesler's drawings for vision study (1950)`*[^6]
-[^i]
+ *`kiesler's drawings for vision study (1950)`*[^8][^i]
+
 Architecture must re-conceptualize the role that space as medium can play today by rejecting the historical crutches that reinforce modern and postmodern rehashing...As technologies accelerate the collapse of space and time, architecture remains itself a form of resistance.
-*(Theodore Spyropoulos, 2021, )*[^7]
+*(Theodore Spyropoulos, 2021, p.68)*[^7]
 
 In the face of such representational open slather, the philosophical questions of plausibility and implausibility override those concerning the true and the false. The shift of interest from the thing to its image, and especially from space to time, to the instant, leads to a shift in polarities from the old black-and-white real-figurative dichotomy to the more relative actual-virtual.
-*(Paul Virilio, 1984, )*
+*(Paul Virilio, 1984, p.70)*[^5]
 
 ---
 
 
 
 ### Design Methods ###
-**Analogic, Notation, Indexical**
+**Analogic, Notation, Indexical**[^g]
 
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
 *`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom`* | Ghost Author: Midjourney + Tarkovsky
@@ -226,7 +225,7 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 **Time, Time, Time**
 
 ![](https://images.squarespace-cdn.com/content/v1/56911f0d0ab377deeecbd785/1515055627051-GHU6EA6DOZ2JO9A4TQRC/IMG_1312.JPG?format=1500w)
-*`Screenshot from Nostalighia, 1983, Tarkovsky`*
+*`Screenshot from Nostalighia, 1983, Tarkovsky`*[^9]
 
 It is time to jump into post-production and stitch everything together. This component we will focus on the time: solar time, labor time, media time, time stamps, time for seeing and time for thinking. How to differentiate the different velocities of decaying? Should we bring the past into the future? When we shift between platforms, what is changed and what is not?
 	Time is embedded in materiality. How to show them?
@@ -235,15 +234,17 @@ It is time to jump into post-production and stitch everything together. This com
 
 
 ### Design Method ###
-**Diagramming, Narrative**
+**Diagramming, Narrative**[^g]
 
 ![](https://cdn.discordapp.com/attachments/1047314004369997954/1047319488086953984/PseudoPaul_academic_conference_displaying_fake_memories_archite_2f262e33-6973-43ee-85a3-c7a3aed37bed.png)
 
-*`academic conference displaying fake memories, architects' toolsets, legs and arms of digital doppelgangers from 18th century to 21st century| Ghost Author: Midjourney + Tarkovsky`*
+*`academic conference displaying fake memories, architects' toolsets, legs and arms of digital doppelgangers from 18th century to 21st century`* | Ghost Author: Midjourney + Tarkovsky
 
-But the model is not the world – to say the model is habitable does not mean we should go and live there. It is just a powerful way of seeing the world. *Kate Davies*
+But the model is not the world – to say the model is habitable does not mean we should go and live there. It is just a powerful way of seeing the world. 
+*(Davies, 2021, p.37)*[^10]
 
-The architectural model-fragment in its manifestation on the stage and in exhibition is a novel phenomenon of our time in that it performs the postdramatic maxim of the deliberately unfinished, the made and the constructed. *Thea Brejzek and Lawrence Wallen*
+The architectural model-fragment in its manifestation on the stage and in exhibition is a novel phenomenon of our time in that it performs the postdramatic maxim of the deliberately unfinished, the made and the constructed. 
+*(Brejzek, Wallen, 2021, p.77)*[^11]
 
 ---
 
@@ -252,7 +253,11 @@ To publish your world. To engage others.
 
 ### On Shelf ###
 
-- 
+- Tarkovsky, A. (Director). (1983). _Nostalghia_ [Drama]. Rai 2, Sovinfilm.
+- _The Chemical Brothers Feat. Beck: Wide Open_. (2016, January 25). [Music]. Outsider.
+- RIBA Education. (2018, November 6). _How to Carve a Giant_ [Video]. YouTube. [https://www.youtube.com/watch?v=RvD-mG1aPzI](https://www.youtube.com/watch?v=RvD-mG1aPzI)
+-  The Net Blvd—Dana Barale Burdman. (n.d.). _The Urban Transcripts Journal_. Retrieved November 22, 2022, from [https://journal.urbantranscripts.org/article/the-net-blvd-dana-barale-burdman/](https://journal.urbantranscripts.org/article/the-net-blvd-dana-barale-burdman/)
+- Eco, U., Mongiat Farina, C., & Farina, G. (2015). _How to write a thesis_. MIT Press.
 
 
 ### Dates 
@@ -270,7 +275,11 @@ To publish your world. To engage others.
 [^3]: Wittgenstein, L. (1953). _Philosophical investigations = philosophische untersuchungen_ (1st reprinted). Basil Blackwell.
 [^4]: Cousins, M. (2021). _Worlds Without End_ (Vol. 91, Issue 3, pp. 40–47). [https://doi.org/10.1002/ad.2691](https://doi.org/10.1002/ad.2691)
 [^5]: Virilio, P. (1994). _The Vision Machine (Perspectives)_ (Later Printing). Indiana University Press.
-[^6]:  Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
+[^6]: Rehm, M. C. ; J. (2021). _Assembled Worlds: New Campo Marzio – Piranesi in the Age of AI_ (Vol. 92, Issue 3, pp. 80–85). [https://doi.org/10.1002/ad.2817](https://doi.org/10.1002/ad.2817)
+[^7]: Spyropoulos, T. (2021). _Everything You See is Yours: Step Towards the Certainty of Uncertainty_ (Vol. 91, Issue 3, pp. 64–73). [https://doi.org/10.1002/ad.2694](https://doi.org/10.1002/ad.2694)
+[^8]:  Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
+[^9]: Tarkovsky, A. (Director). (1983). _Nostalghia_ [Drama]. Rai 2, Sovinfilm.
+[^10]: Davies, K. (n.d.). _Polyphonic Dreams: Storytime in Synthetic Reality_ (Vol. 91, Issue 3, pp. 32–39). [https://doi.org/10.1002/ad.2690](https://doi.org/10.1002/ad.2690)
 
 
 ## Notes ##
@@ -292,4 +301,4 @@ To publish your world. To engage others.
 [^h]: -  [Andrei Tarkovsky(1932-1986)](https://en.wikipedia.org/wiki/Andrei_Tarkovsky) was a [Soviet](https://en.wikipedia.org/wiki/Soviet_Union "Soviet Union") filmmaker. His films explore spiritual and metaphysical themes, and are noted for their slow pacing and long takes, dreamlike visual imagery, and preoccupation with nature and memory. We will focus on _[Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film))_ (1979) and _[Nostalghia](https://en.wikipedia.org/wiki/Nostalghia "Nostalghia")_(1983) to learn time-space narrative and film composition.
 
 [^i]: - [Frederick Kiesler(1890-1965)](https://en.wikipedia.org/wiki/Frederick_John_Kiesler) was an Austrian-American architect, theoretician, theater designer, artist and sculptor. His works highlight the craftsmanship and ways of seeing. The drawing of Double Vision is one of the most important artifact for the project.
-[^7]: 
+[^11]: 
