@@ -9,7 +9,7 @@
 
 ---
 ![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali](https://cdn.discordapp.com/attachments/1045538819161731102/1045546941611778090/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_e427e453-0957-4cbf-89f8-9b9d9f7e14e5.png)
-*`a fictional auction for circus animal audience in a renovated colosseum by the eye of time|Ghost Author: Midjourney[^a] + Salvador Dali[^b]`*
+*`a fictional auction for circus animal audience in a renovated colosseum by the eye of time`* | Ghost Author: MidJourney[^a] + Salvador Dali[^b]
 
 ---
 
@@ -25,7 +25,7 @@ Have no fear of perfection—you’ll never reach it.
 ## Position ##
 
 ![a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side](https://cdn.discordapp.com/attachments/1045538819161731102/1045719498793177238/PseudoPaul_a_thick_rococo_wall_is_weathering_with_a_physical_do_4678dd57-42d7-44c9-b267-22db34d7431c.png)
-*`a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side | Ghost Author: Midjourney + Francisco Goya`*
+*`a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side `*| Ghost Author: Midjourney + Francisco Goya[^d]
 
 *Thesis* is considered the last opportunity to summarize years of learning, to both view and participate in the our discipline academically. We are the products waiting to enter the market after "quarantine".
 
@@ -48,7 +48,7 @@ The project will tell the adventure of a physical doppelganger who escapes the t
 By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
 
 ![a physical doppelganger looking at his digital doppelganger split by a mirror-like weathering thick wall Gustav Klimt|](https://cdn.discordapp.com/attachments/1045538819161731102/1045562094252204072/PseudoPaul_a_physical_doppelganger_looking_at_his_digital_doppe_8293c11e-31e5-4188-a976-fc69d507155a.png)  
-*`a physical doppelganger looking at his digital doppelganger through a weathering mirror | Ghost Author: Midjourney + Gustav Klimt`*
+*`a physical doppelganger looking at his digital doppelganger through a weathering mirror`* | Ghost Author: Midjourney + Gustav Klimt[^e]
 
 The physical doppelganger originally inhabits the "here and now" and the digital doppelganger inhabits the cloud. The two twins don't realize the existence of each other at the beginning of the story. They occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. and are segregated by an untitled invisible thick wall, with only a few neurons connecting both side. Walls can be interpreted as somewhat culture. The wall will weather, diverge, iterate itself and fall someday. When the physical doppelganger leave the "here and now" and steps into the world of cloud, they will experience spectacles as a looker and being looked-at at one time. When the two doppelgangers merge into one, the new individual possesses double territories with double vision.
 
@@ -93,8 +93,8 @@ The physical doppelganger originally inhabits the "here and now" and the digital
 **Eyes Wide Open, Creating Beasts**
 
 ![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
-*`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba*
-
+*`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba`* [^f]
+[^2]
 If a lion could talk, we could not understand him.*Ludwig Wittgenstein*
 
 We have to recognise that only on the condition that we abandon the concept of the world can we possess the concept of a world.*Mark Cousins*
@@ -269,9 +269,12 @@ To publish your world. To engage others.
 
 ## Notes ##
 
-[^a]: http[MidJourney](https://www.midjourney.com/) is 
+[^a]: - [MidJourney](https://www.midjourney.com/) is an independent research lab that produces a proprietary artificial intelligence program that creates images from textual descriptions.
 
-[^c]: Paul [Klee(1879-1940)](https://en.wikipedia.org/wiki/Paul_Klee) was a Swiss-born German artist. His highly individual style was influenced by movements in art that included expressionism, cubism, and surrealism. Klee taught at the [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus "Bauhaus") from January 1921 to April 1931.
+[^c]: - [Paul Klee(1879-1940)](https://en.wikipedia.org/wiki/Paul_Klee) was a Swiss-born German artist. His highly individual style was influenced by movements in art that included expressionism, cubism, and surrealism. Klee taught at the [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus "Bauhaus") from January 1921 to April 1931.
 
-[^b]: Salvador [Dalí(1904-1988)](https://en.wikipedia.org/wiki/Salvador_Dali) was a Spanish [surrealist](https://en.wikipedia.org/wiki/Surrealism "Surrealism") artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work. His practice included painting, graphic arts, film, sculpture, design, photography, fashion and architecture at times in collaboration with other artists.
-
+[^b]: - [Salvador Dalí(1904-1988)](https://en.wikipedia.org/wiki/Salvador_Dali) was a Spanish [surrealist](https://en.wikipedia.org/wiki/Surrealism "Surrealism") artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work. His practice included painting, graphic arts, film, sculpture, design, photography, fashion and architecture at times in collaboration with other artists.
+[^d]: - [Francisco Goya(1746-1828)](https://en.wikipedia.org/wiki/Francisco_Goya) was a Spanish [romantic](https://en.wikipedia.org/wiki/Romanticism "Romanticism") painter and printmaker. Goya is often referred to as the last of the [Old Masters](https://en.wikipedia.org/wiki/Old_Master "Old Master") and the first of the [moderns](https://en.wikipedia.org/wiki/Modern_art "Modern art").
+[^e]: - [Gustav Klimt(1862-1918)](https://en.wikipedia.org/wiki/Gustav_Klimt) was an Austrian [symbolist](https://en.wikipedia.org/wiki/Symbolism_(arts) "Symbolism (arts)") painter and one of the most prominent members of the [Vienna Secession](https://en.wikipedia.org/wiki/Vienna_Secession "Vienna Secession") movement.
+[^f]: - [Bestiaro](https://www.goodreads.com/en/book/show/4978648-animalario-universal-del-profesor-revillod) plays with the boundaries between fiction and reality. The book was cut into 3 sections. A total of 4,096 combinations can be made with the 16 original illustrations.
+[^2]: 
