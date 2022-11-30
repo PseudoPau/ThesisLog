@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2022-11-26 Plan for Weekend.md",
+                "file": "Logs/2022-11-30 Work Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2022-11-26 Plan for Weekend.md",
+                "file": "Logs/2022-11-30 Work Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2022-11-26 Plan for Weekend.md",
+                "file": "Logs/2022-11-30 Work Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2022-11-26 Plan for Weekend.md"
+                "file": "Logs/2022-11-30 Work Plan.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "dce70c1006873e24",
   "lastOpenFiles": [
-    "Logs/2022-11-22_Setting Up.md",
     "Logs/2022-11-26 Plan for Weekend.md",
+    "Logs/2022-11-22_Setting Up.md",
     "Logs/2022-11-29 Work Plan.md",
     "Logs/2022-11-30 Work Plan.md",
     "2.md",
