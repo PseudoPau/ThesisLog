@@ -37,7 +37,9 @@ An preliminary purpose of the thesis is to align our discipline with the contemp
 
 The ontology of architecture is difficult to identify. But this does not mean that the discipline itself is void. In this case, I would rather believe that architecture is a monument to energy and time, a physical projection of the immaterial world, a intersection of several other disciplines, or a cabinet of curiosity that encompasses everything.
 
-Project conduction will be synchronized with the writing of thesis. 
+Project conduction will be synchronized with the writing of thesis.
+
+
 
 ## Narrative ##
 
@@ -93,21 +95,21 @@ The physical doppelganger originally inhabits the "here and now" and the digital
 **Eyes Wide Open, Creating Beasts**
 
 ![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
-*`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba`* [^f]
-[^2]
-If a lion could talk, we could not understand him.*Ludwig Wittgenstein*
+*`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba (Alarcón, 2016)`* [^f][^2]
 
-We have to recognise that only on the condition that we abandon the concept of the world can we possess the concept of a world.*Mark Cousins*
+If a lion could talk, we could not understand him.
+*(Wittgenstein, 1953)*[^3]
+
+We have to recognise that only on the condition that we abandon the concept of the world can we possess the concept of a world.
+*(Mark Cousins, 2021)*[^4]
 
 ---
 
-This component is inspired by Prof. Revillod's Animanarium, which is originated for training imagination for fantasy stories, and Paul Klee's puppet.
-In this stage, we are going to invent new urban creatures derived from a set of archetypes at various scales by construction and deconstruction using some digital technics. These artificial creatures will be partly flesh, partly mechanics, and partly digital. These non-existing artifacts will be the heroines for the Adventure, audience for the Auction, and part of the exhibition for the thesis review.
-
-
+This component is inspired by Prof. Revillod's Animanarium, which is originated for training imagination for fantasy stories.
+At this stage, we are going to invent new urban creatures derived from a set of archetypes at various scales by construction and deconstruction using some digital technics. These artificial creatures will be a blending of flesh(short life), mechanics(long life), and digital(eternal life). These artifacts will be the heroines to participate in the story.
 
 ### Design Methods ###
-**Automatism, Gestural Interpretation, Syntactical**
+**Automatism, Gestural Interpretation, Syntactical**[^5]
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045763556160831558/PseudoPaul_a_corridor_leading_people_from_Mordenism_to_Globaliz_afa9987d-2093-4e87-beb1-a220cc5b894a.png)
 *`An endless corridor leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand | Ghost Author: Midjourney + Tarkovsky`*
 
@@ -116,7 +118,7 @@ The pursuit of rationality is important, but it is not the main purpose of this 
 2D drawing is good. 3D modeling is awesome. Manual works in Rhino, Blender are accepted. Parametric programing is welcomed.
 Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. Even trash has its own meaning for existence. Trust the method and keep writing logs. They will hold the logistics.
 
-### References ###
+### On Shelf ###
 - Murugarren, M., & Sáez Castán, J. (2017). _Animalario universal del Profesor Revillod: Almanaque ilustrado de la fauna mundial : miscelánea de curiosidades para disfrutar aprendiendo_ (Primera edición). Fondo de Cultura Económica.
 - Haraway, D. J., & Wolfe, C. (2016). _Manifestly Haraway_. University of Minnesota Press.
 - Tsing, A. L. (2015). _The mushroom at the end of the world: On the possibility of life in capitalist ruins_. Princeton University press.
@@ -156,7 +158,7 @@ Digital optics is indeed a rational metaphor for intoxication, statistical intox
 In this component, we start to build scenes for audience to perceive, and wander around. Imagine that we are building a temple that houses the collective consciousness. Every architectural element will be granted a symbolic meaning. Architecture serves as a framework to host the artifacts from mission 01. Time, velocity and acceleration need to be taken into account. Motion is important. Relation need to be clarified.
 But remember to keep the idea simple and straightforward. Get rid of the branches and only focus on the main line. Please keep the chaos in order.
 
-### Resources ###
+### On Shelf ###
 - Hockney, D. (2001). _Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters_ (1st ed.). Viking Studio.
 - Harmon, K. (2003). _You Are Here: Personal Geographies and Other Maps of the Imagination_ (1st ed.). Princeton Architectural Press.
 - Tarkovsky, A. (Director). (1980, April 17). _Stalker_ [Drama, Sci-Fi]. Mosfilm, Vtoroe Tvorcheskoe Obedinenie.
@@ -199,7 +201,7 @@ Think about narrative seriously. Should it be a first-person or a third-person? 
 Struggles can be fun, such as the video game Resident Evil and Scorn. Have fun with these walking simulators!
 We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Differentiate the geometric time, labor time and tour time. Learn something from Stalker. Create a glitch pattern and fill them with appropriate random contents. Practice the philosophy of greyboxing and  it's ok to stay non-object for sometime.
 
-### Resources ###
+### On Shelf ###
 
 - Virilio, P. (1994). _The Vision Machine (Perspectives)_ (Later Printing). Indiana University Press.
 - Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
@@ -244,13 +246,9 @@ The architectural model-fragment in its manifestation on the stage and in exhibi
 It is time to wrap things up and come up with a good stage set for displaying. Who is the audience? What kind of fire would you like to set up? What should be shown and what should not? How to verbalize what you did in the past months?
 To publish your world. To engage others.
 
-### Resources ###
+### On Shelf ###
 
-- Virilio, P. (1994). _The Vision Machine (Perspectives)_ (Later Printing). Indiana University Press.
-- Kielser, F. (n.d.). _Kiesler’s Double Vision_ [Drawing]. LEBBEUS WOODS. [https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/]([https://lebbeuswoods.wordpress.com/2009/12/22/kieslers-double-vision/)
-- Ebb Software. (2022). *Scorn* [Video game].Kepler Interactive.
-- CAPCOM Co., Ltd. (2015). *Residential Evil* [Video game].CAPCOM Co., Ltd.
-- Bush, L. (2016, January 18). The Blind Eye and the Vision Machine. _Disphotic_. [http://www.disphotic.com/the-blind-eye-and-the-vision-machine/](http://www.disphotic.com/the-blind-eye-and-the-vision-machine/)
+- 
 
 
 ### Dates 
@@ -261,11 +259,12 @@ To publish your world. To engage others.
 |Due| **W22** 20230415|
 
 
-## Bibliography ##
+## Resources ##
 
 [^1]: Klee, P. (1964). _The Diaries of Paul Klee, 1898-1918_. University of California Press. p.183 
-
-
+[^2]: - _animal fantástico del Profesor Revillod_ (By Ó. Alarcón). (2016). [Image] Neotraba. https://neotraba.com/animalario-universal-del-profesor-revillod/
+[^3]: Wittgenstein, L. (1953). _Philosophical investigations = philosophische untersuchungen_ (1st reprinted). Basil Blackwell.
+[^4]: Cousins, M. (2021). _Worlds Without End_ (Vol. 91, Issue 3, pp. 40–47). [https://doi.org/10.1002/ad.2691](https://doi.org/10.1002/ad.2691)
 
 ## Notes ##
 
@@ -277,4 +276,4 @@ To publish your world. To engage others.
 [^d]: - [Francisco Goya(1746-1828)](https://en.wikipedia.org/wiki/Francisco_Goya) was a Spanish [romantic](https://en.wikipedia.org/wiki/Romanticism "Romanticism") painter and printmaker. Goya is often referred to as the last of the [Old Masters](https://en.wikipedia.org/wiki/Old_Master "Old Master") and the first of the [moderns](https://en.wikipedia.org/wiki/Modern_art "Modern art").
 [^e]: - [Gustav Klimt(1862-1918)](https://en.wikipedia.org/wiki/Gustav_Klimt) was an Austrian [symbolist](https://en.wikipedia.org/wiki/Symbolism_(arts) "Symbolism (arts)") painter and one of the most prominent members of the [Vienna Secession](https://en.wikipedia.org/wiki/Vienna_Secession "Vienna Secession") movement.
 [^f]: - [Bestiaro](https://www.goodreads.com/en/book/show/4978648-animalario-universal-del-profesor-revillod) plays with the boundaries between fiction and reality. The book was cut into 3 sections. A total of 4,096 combinations can be made with the 16 original illustrations.
-[^2]: 
+[^g]:- Perry Kulper's 14 Design Methods. 
