@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Operational Manual.md",
-                "mode": "preview",
+                "file": "Logs/2022-11-26 Plan for Weekend.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Operational Manual.md",
+                "file": "Logs/2022-11-26 Plan for Weekend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Operational Manual.md",
+                "file": "Logs/2022-11-26 Plan for Weekend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Operational Manual.md"
+                "file": "Logs/2022-11-26 Plan for Weekend.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "dce70c1006873e24",
   "lastOpenFiles": [
-    "Writing/Operational Manual.md",
-    "2.md",
-    "Logs/2022-11-29 Plan.md",
-    "Logs/2022-11-26 Plan for Weekend.md",
     "Logs/2022-11-22_Setting Up.md",
+    "Logs/2022-11-26 Plan for Weekend.md",
+    "Logs/2022-11-29 Work Plan.md",
+    "Logs/2022-11-30 Work Plan.md",
+    "2.md",
+    "README.md",
     "Logs/2022-11-21_Obsidian Learning.md",
+    "Writing/Operational Manual.md",
     "Reading notes/Latour_We_2018.md",
-    "Writing/Thesis.md",
-    "Writing/Thesis Prospectus.md",
-    "Untitled.md"
+    "Writing/Thesis.md"
   ]
 }
