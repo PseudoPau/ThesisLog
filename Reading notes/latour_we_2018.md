@@ -30,9 +30,11 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 
 `“the assumption that the present disorientation is due to the fabulous increase in the lack of fit between the two sets of constraints: we inhabit as citizens a land that is not the one we could subsist on, hence the increased feeling of homelessness, a feeling that is transforming the former ecological questions into a new set of more urgent and more tragic political struggles.”` *(Latour, 2018, p. 1)*
 
-   Latour brings our attentions to the concept of "citizenship" and politics. A lot of people are pessimistic about the contemporary society because almost all non-binary problems will eventually turned into a politic issues. It is always the position instead of the rationality that gives the answer. We are equipped with different philosophies and methods to survive in the two different tanks. Emotion and knowledge are like the string connecting the two doppelgangers.
-
-   There is no doubt that the wounds we get in the physical world need to be healed in a physical clinic. How about the damages from another world?
+   Latour brings our attentions to the concept of "citizenship" and politics. A lot of people are pessimistic about the contemporary society because almost all non-binary problems will eventually turned into a politic issues. It is always the position instead of the rationality that gives the answer, even in an environment where everyone can use a pseudonym. Our position is limited by our vision. It was determined by origin, identity, education and environment.
+   Now let's put these advanced topics aside and talk a little bit about how to survive the brutal life adventure. Obviously, we have to equipped with different philosophies and methods to survive in the two different lands. We should realize the emotion and knowledge are like the string connecting the two doppelgangers. The lifespan and the spirit are shared.
+   We believe the internet friends can replace the friends in the real life. Some of us put more effort into their accounts than tidying their rooms. It has no problem.
+   I suddenly remembered years before people are eager to see or date their internet friends in person. But I noticed now people prefer to leave their friendships only on the platforms.
+   In the early days of the COVID we wanted to meet our professors and take classes in person so bad. Others, however, were too willing to work from home.
 
 `“This is what Pierre Charbonnier calls the “ubiquity of the moderns” to underline that there is no correspondence whatsoever between the shape of nation states in the legal sense and the widely distributed sources of the wealth its citizens benefit from.”` *(Latour, 2018, p. 1)*
 
