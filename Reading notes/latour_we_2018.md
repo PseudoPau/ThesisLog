@@ -42,29 +42,26 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 
 `“GLOBALIZATION is simultaneously that toward which the whole world is supposed to have progressed and a totally skewed utopian domain where time and space have been colonized to the point of rendering it uninhabitable and paralyzing any reaction to the threat everyone clearly sees coming.”` *(Latour, 2018, p. 2)*
 
-   Globalization always renders an optimistic mood. We see the world through distorted lens. We empathize with capitalists as if we were rich, too. Like I sometimes cannot help teaching Americans how to spell English wor
+   Globalization always renders an optimistic mood. We see the world through distorted lens. We empathize with capitalists as if we were rich, too. Like I sometimes cannot help teaching Americans how to spell English worlds...
+   We are so arrogant that we ignore the crisis with peace of mind. Even we want to react, we are held down by those around us, families, friends, etc.
 
 `“It is different from the former precisely because it began to rematerialize all the elements that had been left aside, a bit too quickly, by those who had embarked on the great progressive movement toward globalization.”` *(Latour, 2018, p. 2)*
 
-   In my understanding, the Anthropocene is an addendum to globalization. The superposition of the Anthropocene and globalization will be the totality of our world.
+   Anthropocene is an addendum to Globalization. They are in figure-ground relation. When we discuss Anthropocene, we must be aware that we are also talking about Globalization. They are shadows to each others.
 
 `“The key point is that it is not nature as such, whose immensity, indifference, aloofness, importance, and all-encompassing substance have always been celebrated, but an agent with its own force and power that requests to be integrated, in some way, into the political domain.”` *(Latour, 2018, p. 2)*
 
-   This sentence is confusing to me and seems to have a tendency to "make gods".
-
-   In conjunction with the context that follows, Anthropocene is proposed in isolation from human history and attempts to abstract multiple subjectivity into one. I keep prudent towards that as a human being. It does not mean that it is undesirable to make grand narratives from the perspective of a non-human. One have to clarity their detached attitude at the beginning of their storytelling.
+   I don't know if it is reasonable to discuss human beings as if we are not human beings. Latour's proposal puts Anthropocene to the same level as individuals.
 
 `“freedom is for the few, not for the many; breaking from the limits of nature is the essential destiny of those few only”` *(Latour, 2018, p. 3)*
 
-   Everybody dreams to be the few. The modernism and globalization have their audience forever.
+   Everybody dreams to be the few.
 
-   As architects we should be aware that we are the accomplices of capital. We still have dream of fairness and justice. But we all know it is a fake glory for the sake of marketing and storytelling.
+   As architects we should be aware that we are the accomplices of capital, though we sometimes claim that we are environmental agents. 
 
 `“On planet EXIT, the plan is that it will soon be possible to download our mortal bodies into a mix of robots, DNA, clouds, and AI, thereby situated as far as possible from the humble and limited Earth.”` *(Latour, 2018, p. 3)*
 
-   Since humans no longer exist in human form, do we still need to treat them as the same species? Hidden behind EXIT is the bloodier issue of race and justice.
-
-   The real world is complicated enough. Why should we bother to fictionalize the new world for discussion? Unless the real world has completely run out of territory.
+   If human beings no longer exist in human form, do we still need to treat them as the same species? Can Exit solve the problems we are facing? It reminds me of the Peasant Revolts that they kill their king and become the new king. The history will repeat itself if we keep a blind eye to the issues. Exit will make things even more difficult.
 
 `“Wherever the gated community ends up being situated, the great difference between the planets GLOBALIZATION and EXIT is that there is no longer any project for the billions of humans who are explicitly now left behind or, to use a cruel but frank adjective, have become supernumerary.Civilization,in the narrow sense of a project invented in the eighteenth century, is now abandoned for good.”` *(Latour, 2018, p. 3)*
 
