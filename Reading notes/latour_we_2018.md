@@ -20,13 +20,11 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 
 `“Climate mutation means that the question of the land on which we all stand has come back into focus, hence the general political disorientation, especially for the left, which did not expect to have to talk again of “people” and “soil” — questions mostly abandoned to the right.”` *(Latour, 2018, p. 1)*
 
-   All human conflicts can be ascribed to the land. If we think of climate and environment as a resource or an innate advantage/disadvantage of development, we can understand why conflicts or compromises exist in the "here" and "now".
-
-   What are we designing for? Our research focuses on  "here" and "now", but our users are in the future. We can get a prediction or several predictions from trained AI models, but they cannot represent the future by Heisenberg's uncertainty principle.
+   It is not climate that splits us. Climate makes the separation in groups obvious. Although we are talking about the same thing, different phrasing can lead to different results. The antagonism floating on the top makes us too tired to discuss the real important things. The problem within the contemporary society is that people refuse to join the discourse.
 
 `“The principle that will lead me in this reckoning is the link between the territory necessary for our subsistence and the territory that we recognize — legally, affectively — as our own and thus as the source of our freedom and autonomy.”` *(Latour, 2018, p. 1)*
 
-   Latour mentions two territories, both of which are inhabitable. One is the productive space that is physical, touchable and keeps us alive. The other is more like an immaterial territory of consciousness existing in nowhere or everywhere. Let’s make another assumption that it is a territory on the Cloud, inhabitable as well, only provides advanced survival needs beyond “safety” in Maslow's hierachy.
+   Latour mentions two territories, both of which are inhabitable. One is the productive space that keeps us alive. The other is the container for our daily activities in the form of data, part of which lies in the Google's or Meta's giant data center. Let’s make another assumption that it is a territory on the Cloud, inhabitable as well, only provides advanced survival needs beyond “safety” in Maslow's hierachy.
 
    Here we know everyone processes two territories that overlap each other. The areas of the territories are not fixed. They can grow as the owner’s perception grows, or shrinks through interpersonal confrontations.
 
