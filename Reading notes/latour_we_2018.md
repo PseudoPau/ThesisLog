@@ -32,15 +32,12 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 
    Latour brings our attentions to the concept of "citizenship" and politics. A lot of people are pessimistic about the contemporary society because almost all non-binary problems will eventually turned into a politic issues. It is always the position instead of the rationality that gives the answer, even in an environment where everyone can use a pseudonym. Our position is limited by our vision. It was determined by origin, identity, education and environment.
    Now let's put these advanced topics aside and talk a little bit about how to survive the brutal life adventure. Obviously, we have to equipped with different philosophies and methods to survive in the two different lands. We should realize the emotion and knowledge are like the string connecting the two doppelgangers. The lifespan and the spirit are shared.
-   We believe the internet friends can replace the friends in the real life. Some of us put more effort into their accounts than tidying their rooms. It has no problem.
-   I suddenly remembered years before people are eager to see or date their internet friends in person. But I noticed now people prefer to leave their friendships only on the platforms.
-   In the early days of the COVID we wanted to meet our professors and take classes in person so bad. Others, however, were too willing to work from home.
+   Different accounts means different doppelgangers. The doppelgangers can represent a history and may have no relation to the present. I noticed the music recommendation by my 18's account was very different from my 20's account. Algorithms are defeated by fickle humans.
+   Speaking of the internet world, we believe the internet friends can replace the friends in the real life to some extent. Some of us put more effort into their accounts than tidying their rooms. It has no problem. I suddenly think of years before people are eager to see or date their internet friends in person. What kind of space do people need now? Shall we listen to our desire when we are designing the space? Who are we designing for?
 
 `“This is what Pierre Charbonnier calls the “ubiquity of the moderns” to underline that there is no correspondence whatsoever between the shape of nation states in the legal sense and the widely distributed sources of the wealth its citizens benefit from.”` *(Latour, 2018, p. 1)*
 
-   Climate can't unite humans. Neither can politics. Religious works for sometimes however cause some side effect at the meantime. How about capital? While there have always been critiques about capital and globalization, we have to admit that capital is, at least so far, the only merit that succeeded in binding human beings together. We cannot afford de-globalization.
-
-   As a civilized modern people we cannot avoid questions about citizenship. How to define citizenship? If paying taxes means being a citizen, can we consider a company as a citizen? Are citizenship important for juristic persons like companies? How does capital view citizenship?
+   If being born in the United States means you are an American, then can my digital doppelganger be an American? It was born in Google's servers in 2015.
 
 `“GLOBALIZATION is simultaneously that toward which the whole world is supposed to have progressed and a totally skewed utopian domain where time and space have been colonized to the point of rendering it uninhabitable and paralyzing any reaction to the threat everyone clearly sees coming.”` *(Latour, 2018, p. 2)*
 
