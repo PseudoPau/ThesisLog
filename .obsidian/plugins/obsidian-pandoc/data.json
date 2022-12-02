@@ -5,11 +5,11 @@
   "injectThemeCSS": false,
   "customCSSFile": null,
   "displayYAMLFrontmatter": false,
-  "linkStrippingBehaviour": "text",
+  "linkStrippingBehaviour": "link",
   "highDPIDiagrams": true,
   "pandoc": "/usr/local/bin/pandoc",
   "pdflatex": null,
-  "outputFolder": null,
+  "outputFolder": "/Users/zhangwei/Documents/ThesisLog/Export",
   "extraArguments": "",
   "exportFrom": "html"
 }
