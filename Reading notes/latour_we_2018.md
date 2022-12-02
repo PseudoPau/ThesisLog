@@ -69,30 +69,27 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 
 `“Where do the millions of people go? In one direction and one only: wherever they would like, so long as they remain behind walls, and thereby retain at least one element of the former civilizing project protection and identity.”` *(Latour, 2018, p. 3)*
 
-   Walls provide sense of solidity. Gravity provides sense of reality. Those who hide behind walls are not necessarily cowards. They are rational and a little conservative and believe they can find an image from the history to deal with the dilemma right now. For some reasons, they don't trust themselves. They need tons of reference 
-
-   The superposition of the EXIT and SECURITY will be the totality of human beings.
+   Walls provide sense of solidity. Gravity provides sense of reality. Those who hide behind walls are not necessarily cowards. They are rational and a little conservative and believe they can find an image from the history to deal with the dilemma right now. For some reasons, they don't trust themselves. They need tons of reference to support their courage. They are the majority, the indigenous people of globalization.
 
 `“If prosperity and freedom are gone and it is impossible, as scientists insist, to bring prosperity and earthly conditions together, then let’s at least have an identity, a sense of belonging. Does it solve the problem of the superposition between subsistence, territory, and freedom?”` *(Latour, 2018, p. 3)*
 
-   If we ask what is the ideal built environment, it would be the one that can provide "subsistence, territory, and freedom" to its inhabitants.
-
-   "subsistence, territory, and freedom" is the eternal pursuit of us Homo sapiens.
+   What is the dream habitat? Is there a place satisfied  "subsistence, territory, and freedom" needs for its inhabitants?
+   We voluntarily build walls to resist external risks. When we ourselves become a risk, we passively and voluntarily isolate ourselves. There exists an invisible wall of consciousness embedded in the culture, or even in the DNA. Human beings may born to divide themselves.
 
 `“let’s say the period from the sixteenth through eighteenth century, with its coal, and the nineteenth and twentieth centuries, with coal and oil.Economics was still an art of dealing with prudence and limits,and not yet with what could render as invisible the conditions of subsistence and infinitize profit. To use Timothy Mitchell’s thesis, they could not render invisible all links to earthly conditions.”` *(Latour, 2018, p. 4)*
 
-   The same is architecture.
+   Noise, dirts and bad elements are also parts of the world. The imperfect is the real.
 
 `“You cannot insert into politics just any sort of natural entity without transforming the search for freedom and autonomy into the simple domination of necessity and heteronomy.”` *(Latour, 2018, p. 6)*
 
 `“the scales are correct, the influence indisputable, the effects devastating17 — is not something that any political agent can hear without ceasing to be a human political agent. In becoming geology, anthropocentric humans have become as immobile as pillars of salt.”` *(Latour, 2018, p. 6)*
 
-   This paragraph demonstrates the limitation of Anthropocene. Anthropocene can only be used to describe “here” and “now”. It is not for the past or future. It has no variation. It is static.
+   Anthropocene is kind of static because it only describes "here" and "now" and has no relation to past and future. That is its limitation. But still a good model to perceive the situation.
 
 `“The crucial discovery is that life forms don’t reside in space and time, but that time and space are the result of their own entanglement.”` *(Latour, 2018, p. 6)*
 
-   Interesting opinion. Advantage of thinking in perspective of Anthropocene.
+   Yes. Time and space are concepts defined by humans.There used to be no digits in the world. When humans abstract the world into the digits, they possess a new world.
 
 `“Whenever people talk about modernization, they immediately create, by way of contrast, a primeval site, that of archaic attachment to the soil, to the ground, which is then either ridiculed as that from which the whole civilizing project has been extricating itself, or — what is even worse — celebrated as a mythical, archaic, primordial, autochthonous Ur-Earth free from all the tragic sins of civilized humans.”` *(Latour, 2018, p. 6)*
 
-   The problem of Modernism is that it is too smooth and abstract, and therefore prone to over-interpretation or misinterpretation. This is exactly the reason I wanted to trace back to the early modernism when I was planning the thesis.
+   Modernism lacks a unified definition and description, which has led to future generations guessing to understand it, and therefore prone to over-interpret or mis-interpret it. When we talk about modernism, what are we talking about? Modernism is not only a style...
