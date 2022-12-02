@@ -37,7 +37,7 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 
 `“This is what Pierre Charbonnier calls the “ubiquity of the moderns” to underline that there is no correspondence whatsoever between the shape of nation states in the legal sense and the widely distributed sources of the wealth its citizens benefit from.”` *(Latour, 2018, p. 1)*
 
-   If being born in the United States means you are an American, then can my digital doppelganger be an American? It was born in Google's servers in 2015.
+   It is irrelevant to the context. If being born in the United States means you are an American, can my digital doppelganger be an American? It was born in Google's servers in 2015.
 
 `“GLOBALIZATION is simultaneously that toward which the whole world is supposed to have progressed and a totally skewed utopian domain where time and space have been colonized to the point of rendering it uninhabitable and paralyzing any reaction to the threat everyone clearly sees coming.”` *(Latour, 2018, p. 2)*
 
