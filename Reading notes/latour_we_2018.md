@@ -65,15 +65,13 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 
 `“Wherever the gated community ends up being situated, the great difference between the planets GLOBALIZATION and EXIT is that there is no longer any project for the billions of humans who are explicitly now left behind or, to use a cruel but frank adjective, have become supernumerary.Civilization,in the narrow sense of a project invented in the eighteenth century, is now abandoned for good.”` *(Latour, 2018, p. 3)*
 
-   Choosing Planet EXIT was a big gamble, betting that you would be one of the chosen few. This may be somehow equitable, whereby talent and wealth are determined at random, rather than from inheritance.
-
-   Migration cannot solve issues but leave the issues behind. If the issues were as big as our planet, or the universe, we would have nowhere to hide.
+   Choosing Planet EXIT was a big gamble, betting that you would be one of the chosen few. Run-away cannot solve anything but makes things bigger. When the issue is as big as a planet, we have nowhere to hide. At that time, arguing who is the best U.S president becomes a funny scene.
 
 `“Where do the millions of people go? In one direction and one only: wherever they would like, so long as they remain behind walls, and thereby retain at least one element of the former civilizing project protection and identity.”` *(Latour, 2018, p. 3)*
 
-   The wall and gravity are undoubtedly the two most important elements in Latour's essay. Walls provide sense of solidity and gravity provides sense of materiality. The texture of human beings is not supposed to be smooth, transparent and functional, but should be primitive, muddy and unpredictable.
+   Walls provide sense of solidity. Gravity provides sense of reality. Those who hide behind walls are not necessarily cowards. They are rational and a little conservative and believe they can find an image from the history to deal with the dilemma right now. For some reasons, they don't trust themselves. They need tons of reference 
 
-   It seems like the superposition of the EXIT and SECURITY will be the totality of human beings.
+   The superposition of the EXIT and SECURITY will be the totality of human beings.
 
 `“If prosperity and freedom are gone and it is impossible, as scientists insist, to bring prosperity and earthly conditions together, then let’s at least have an identity, a sense of belonging. Does it solve the problem of the superposition between subsistence, territory, and freedom?”` *(Latour, 2018, p. 3)*
 
