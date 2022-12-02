@@ -37,13 +37,12 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 
 `“This is what Pierre Charbonnier calls the “ubiquity of the moderns” to underline that there is no correspondence whatsoever between the shape of nation states in the legal sense and the widely distributed sources of the wealth its citizens benefit from.”` *(Latour, 2018, p. 1)*
 
-   It is irrelevant to the context. If being born in the United States means you are an American, can my digital doppelganger be an American? It was born in Google's servers in 2015.
+   It is irrelevant to the context. If being born in the United States means you are an American, can my digital doppelganger be an American? By the way, it was born in Google's servers in 2015.
+   The world is constructed according to the algorithm proposed by modernism. When the world building starts to go wrong, we are patching to correct off-tracks. I wonder is it still the same thing with too many patches?
 
 `“GLOBALIZATION is simultaneously that toward which the whole world is supposed to have progressed and a totally skewed utopian domain where time and space have been colonized to the point of rendering it uninhabitable and paralyzing any reaction to the threat everyone clearly sees coming.”` *(Latour, 2018, p. 2)*
 
-   It is true that globalization always renders an optimistic mood. Human’s nerves of pain and awareness of crisis have receded like never before. In the contrary, some trivial panic is blown into magnification, diverting everyone's attention away from the real crisis. This has created the spectacle that Musk's tweets attracting more attention than the increasing rent and food prices in our life. This phenomenon also reflects the increase of the unspeakable in human history. We tend to play deaf and practice Wittgenstein's "whatever cannot be said, be silent".
-
-   There is a possibility that the area of world is still sufficient, but more places turns to be inaccessible for some reason, as toxins are everywhere, walls are everywhere, surveillance is everywhere...
+   Globalization always renders an optimistic mood. We see the world through distorted lens. We empathize with capitalists as if we were rich, too. Like I sometimes cannot help teaching Americans how to spell English wor
 
 `“It is different from the former precisely because it began to rematerialize all the elements that had been left aside, a bit too quickly, by those who had embarked on the great progressive movement toward globalization.”` *(Latour, 2018, p. 2)*
 
