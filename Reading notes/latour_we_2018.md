@@ -1,4 +1,6 @@
-#readingss
+#readingss #writingss 
+[[Thesis]]
+
 
 ![Seven Imaginary Planet|600](https://d3i71xaburhd42.cloudfront.net/ef3b53d60f8350f7824c614e3cc4179e90f4a8e5/1-FigureBL1-1.png)
 
