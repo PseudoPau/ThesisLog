@@ -24,13 +24,13 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 
 `“The principle that will lead me in this reckoning is the link between the territory necessary for our subsistence and the territory that we recognize — legally, affectively — as our own and thus as the source of our freedom and autonomy.”` *(Latour, 2018, p. 1)*
 
-   Latour mentions two territories, both of which are inhabitable. One is the productive space that keeps us alive. The other is the container for our daily activities in the form of data, part of which lies in the Google's or Meta's giant data center. Let’s make another assumption that it is a territory on the Cloud, inhabitable as well, only provides advanced survival needs beyond “safety” in Maslow's hierachy.
-
-   Here we know everyone processes two territories that overlap each other. The areas of the territories are not fixed. They can grow as the owner’s perception grows, or shrinks through interpersonal confrontations.
+   Latour mentions two territories, both of which are inhabitable. One is the productive space that keeps us alive. The other is the container for our daily activities in the form of data, part of which lies in the Google's or Meta's giant data center. The non-material world does not exist without a physical carrier. The first territory is the place we stand, we see and we touch. The second one is much more complicated because it was broken into pieces of puzzle spreading everywhere.
+   If we collect the pieces of puzzle in the same physical site, and we try to assemble them, we will get a beast which can represent our world but a distorted one. It sounds ridiculous, like finding a chipped fingernail and saying I found someone hiding here. But the reality is that we can indeed find the person through bioinformatics... 
+   The digital footprints are even harder to eliminate. We have to pray that no one is stalking us and to pretend we are free people.
 
 `“the assumption that the present disorientation is due to the fabulous increase in the lack of fit between the two sets of constraints: we inhabit as citizens a land that is not the one we could subsist on, hence the increased feeling of homelessness, a feeling that is transforming the former ecological questions into a new set of more urgent and more tragic political struggles.”` *(Latour, 2018, p. 1)*
 
-   We are equipped with different philosophies and methods to survive in the two different tanks. Emotion and knowledge are like the string connecting the two doppelgangers.
+   Latour brings our attentions to the concept of "citizenship" and politics. A lot of people are pessimistic about the contemporary society because almost all non-binary problems will eventually turned into a politic issues. It is always the position instead of the rationality that gives the answer. We are equipped with different philosophies and methods to survive in the two different tanks. Emotion and knowledge are like the string connecting the two doppelgangers.
 
    There is no doubt that the wounds we get in the physical world need to be healed in a physical clinic. How about the damages from another world?
 
