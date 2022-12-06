@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "visa/immigration info session.md",
+                "file": "Logs/2022-12-06 Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "visa/immigration info session.md",
+                "file": "Logs/2022-12-06 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "visa/immigration info session.md",
+                "file": "Logs/2022-12-06 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "visa/immigration info session.md"
+                "file": "Logs/2022-12-06 Plan.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "c94f505e1fee8e70",
   "lastOpenFiles": [
+    "visa_immigration info session.md",
     "Logs/2022-12-06 Plan.md",
+    "visa/immigration info session.md",
+    "Logs/2022-11-21_Obsidian Learning.md",
     "Writing/Thesis.md",
     "Reading notes/Latour_We_2018.md",
     "Logs/2022-12-02.md",
     "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
     "Users/zhangwei/Documents/ThesisLog/Img/Pasted.md",
-    "Logs/2022-11-30 Work Plan.md",
-    "Writing/Operational Manual.md",
-    "Writing/Thesis Prospectus.md",
-    "README.md"
+    "Logs/2022-11-30 Work Plan.md"
   ]
 }
