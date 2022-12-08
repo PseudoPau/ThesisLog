@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2022-12-07 Plan.md",
+                "file": "Logs/2022-12-08 Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "424a7d3f06206d3a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2022-12-07 Plan.md",
+                "file": "Logs/2022-12-08 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2022-12-07 Plan.md",
+                "file": "Logs/2022-12-08 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2022-12-07 Plan.md"
+                "file": "Logs/2022-12-08 Plan.md"
               }
             }
           }
@@ -137,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15863a76be46ba24",
+  "active": "c94f505e1fee8e70",
   "lastOpenFiles": [
+    "Logs/2022-12-07 Plan.md",
     "Logs/2022-12-06 Plan.md",
+    "Logs/2022-12-02.md",
+    "Logs/2022-11-30 Work Plan.md",
     "visa_immigration info session.md",
     "visa/immigration info session.md",
     "Logs/2022-11-21_Obsidian Learning.md",
     "Writing/Thesis.md",
     "Reading notes/Latour_We_2018.md",
-    "Logs/2022-12-02.md",
-    "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
-    "Users/zhangwei/Documents/ThesisLog/Img/Pasted.md",
-    "Logs/2022-11-30 Work Plan.md"
+    "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md"
   ]
 }
