@@ -5,7 +5,7 @@
 ## plan for the break
 #Life
 - [ ] deep cleaning for my house
-- [ ] laundry(sweater, coat...)
+- [x] laundry(sweater, coat...)
 
 #Career 
 - [ ] update CV/portfolio/profile/...
@@ -16,7 +16,7 @@
 
 #Thesis
 - [ ] more reading
-- [ ] set up obsidian/zotero
+- [x] set up obsidian/zotero
 - [ ] drawing
 
 #ShadowCatching 
