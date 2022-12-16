@@ -99,5 +99,3 @@ Latour, B. (2018). _“We Don’t Seem to Live on the Same Planet” – A Fict
 `“Whenever people talk about modernization, they immediately create, by way of contrast, a primeval site, that of archaic attachment to the soil, to the ground, which is then either ridiculed as that from which the whole civilizing project has been extricating itself, or — what is even worse — celebrated as a mythical, archaic, primordial, autochthonous Ur-Earth free from all the tragic sins of civilized humans.”` *(Latour, 2018, p. 6)*
 
    Modernism lacks a unified definition and description, which has led to future generations guessing to understand it, and therefore prone to over-interpret or mis-interpret it. When we talk about modernism, what are we talking about? Modernism is not only a style...
-
-![]()

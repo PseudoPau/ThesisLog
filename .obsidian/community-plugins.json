@@ -5,5 +5,6 @@
   "dataview",
   "better-fn",
   "obsidian-footnotes",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-citation-plugin"
 ]
