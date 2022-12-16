@@ -11,8 +11,12 @@
             "id": "01ad6a8bc0175d94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Logs/2022-12-14 Future Plan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logs/2022-12-14 Future Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logs/2022-12-14 Future Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Logs/2022-12-14 Future Plan.md"
+              }
             }
           }
         ]
@@ -128,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15863a76be46ba24",
+  "active": "1712a18f9a17880a",
   "lastOpenFiles": [
     "Reading notes/@latour_we_2018.md",
     "Reading notes/Latour_We_2018.md",
