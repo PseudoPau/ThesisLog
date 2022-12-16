@@ -6,12 +6,12 @@ year: 2018
 
 [zotero link]()
 
-##Abstract
+## Abstract
 ---
 
 
 
-##Notes
+## Notes
 ---
 <h3>latour_we_2018</h3> 
 

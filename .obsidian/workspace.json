@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d2e30c72207de56",
+        "id": "cfd748f9361005a0",
         "type": "tabs",
         "children": [
           {
-            "id": "c94f505e1fee8e70",
+            "id": "01ad6a8bc0175d94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading notes/@latour_we_2018.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@latour_we_2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading notes/@latour_we_2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reading notes/@latour_we_2018.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,15 +130,15 @@
   },
   "active": "15863a76be46ba24",
   "lastOpenFiles": [
-    "Reading notes/@alexander_design_2020.md",
     "Reading notes/@latour_we_2018.md",
     "Reading notes/Latour_We_2018.md",
+    "().md",
+    "Reading notes/@alexander_design_2020.md",
     "Logs/2022-12-14 Future Plan.md",
     "Logs/2022-12-08 Plan.md",
     "Logs/2022-12-06 Plan.md",
     "Logs/2022-11-30 Work Plan.md",
     "Logs/2022-11-29 Work Plan.md",
-    "visa/immigration info session.md",
-    "Logs/2022-12-07 Plan.md"
+    "visa/immigration info session.md"
   ]
 }
