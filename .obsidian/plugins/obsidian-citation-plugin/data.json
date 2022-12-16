@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n[zotero link]({{zoteroSelectURL}})\n\n##Abstract\n---\n{{abstract}}\n\n---\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "/Users/zhangwei/Desktop/IN PROCESS/660/My Library.bib"
+  "citationExportPath": "/Users/zhangwei/Documents/ThesisLog/My Library.bib"
 }
