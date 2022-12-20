@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2022-12-16.md",
+                "file": "Writing/Operational Manual.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2022-12-16.md",
+                "file": "Writing/Operational Manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2022-12-16.md",
+                "file": "Writing/Operational Manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2022-12-16.md"
+                "file": "Writing/Operational Manual.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "01ad6a8bc0175d94",
   "lastOpenFiles": [
+    "Logs/2022-12-16.md",
     "Logs/2022-12-14 Future Plan.md",
     "Reading notes/@latour_we_2018.md",
     "Reading notes/Latour_We_2018.md",
@@ -146,7 +147,6 @@
     "Logs/2022-12-08 Plan.md",
     "Logs/2022-12-06 Plan.md",
     "Logs/2022-11-30 Work Plan.md",
-    "Logs/2022-11-29 Work Plan.md",
-    "visa/immigration info session.md"
+    "Logs/2022-11-29 Work Plan.md"
   ]
 }
