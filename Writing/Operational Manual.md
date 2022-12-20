@@ -1,5 +1,4 @@
 #writingss
-//a tour guide to myself
 
 ---
 
