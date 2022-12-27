@@ -26,9 +26,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13c21e31a9dbd253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Operational Manual.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76db6d1b500b684f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portfolio/Vol.2 Superposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2022-12-26 Work Plan.md",
+                "file": "Portfolio/Vol.2 Superposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2022-12-26 Work Plan.md",
+                "file": "Portfolio/Vol.2 Superposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2022-12-26 Work Plan.md"
+                "file": "Portfolio/Vol.2 Superposition.md"
               }
             }
           }
@@ -156,17 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a42a328852f6b0c0",
+  "active": "76db6d1b500b684f",
   "lastOpenFiles": [
+    "Writing/Operational Manual.md",
+    "Writing/Thesis Prospectus.md",
+    "Writing/Thesis.md",
     "Logs/2022-12-16.md",
     "Logs/2022-12-26 Work Plan.md",
     "Logs/2022-12-21.md",
-    "Writing/Operational Manual.md",
     "Logs/2022-11-26 Plan for Weekend.md",
     "Logs/2022-11-22_Setting Up.md",
     "Logs/2022-11-29 Work Plan.md",
-    "Logs/2022-12-06 Plan.md",
-    "Logs/2022-11-21_Obsidian Learning.md",
-    "Logs/2022-11-30 Work Plan.md"
+    "Logs/2022-12-06 Plan.md"
   ]
 }
