@@ -14,5 +14,18 @@ diagramming
 logics
 
 ---
+### My projects
+
+
+
+
+---
 ### statement
+-  a mixture of reality and fiction.
+- contains dreams and desires
+- a sense of intuition and the intrinsically unfinished action of moving forward.
+
+the challenge is...
+the focus is...
+in the case of ...
 
