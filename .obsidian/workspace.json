@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solar.md",
+                "file": "Logs/2022-12-14 Future Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solar.md",
+                "file": "Logs/2022-12-14 Future Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solar.md",
+                "file": "Logs/2022-12-14 Future Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solar.md"
+                "file": "Logs/2022-12-14 Future Plan.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "316efd6992b8baf1",
   "lastOpenFiles": [
+    "Logs/2022-12-21.md",
+    "Solar.md",
     "Logs/2022-12-14 Future Plan.md",
     "Portfolio/Vol.2 Superposition.md",
-    "Logs/2022-12-21.md",
     "Logs/2022-12-28 Work Plan.md",
     "Logs/2022-12-26 Work Plan.md",
     "Writing/Operational Manual.md",
     "Writing/Thesis Prospectus.md",
     "Writing/Thesis.md",
-    "Logs/2022-12-16.md",
-    "Logs/2022-11-26 Plan for Weekend.md"
+    "Logs/2022-12-16.md"
   ]
 }

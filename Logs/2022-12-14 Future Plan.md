@@ -9,13 +9,13 @@
 
 #Career 
 - [ ] update CV/portfolio/profile/...
-- [ ] talk with friends
-	- [ ] visit some of them
+- [x] talk with friends
+	- [x] visit some of them
 	- [ ] practice my verbal skills
 	- [ ] make something delicious
 
 #Thesis
-- [ ] more reading
+- [x] more reading
 - [x] set up obsidian/zotero
 - [ ] drawing
 
@@ -31,3 +31,6 @@
 
 #Website
 
+## 12.30
+- [ ] Finish Linework Layouts
+- [ ] Overall Statement
