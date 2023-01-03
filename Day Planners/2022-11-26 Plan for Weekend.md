@@ -1,4 +1,4 @@
-#logss 
+
 
 --- 
 - [x] 3pm Walgreen, Covid-19, Flu
