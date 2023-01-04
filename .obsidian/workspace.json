@@ -11,11 +11,9 @@
             "id": "f380319a7167607f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Day Planners/Day Planner-20230104.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230104.md",
+                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230104.md",
+                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230104.md"
+                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md"
               }
             }
           },
@@ -172,6 +170,7 @@
   },
   "active": "f380319a7167607f",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230104.md",
     "Vol.2 Superposition/Vol.2 Superposition.md",
     "Vol.2 Superposition/Draft for UARTS.md",
     "Vol.2 Superposition/Draft for 562.md",
@@ -180,7 +179,6 @@
     "Logs/2022-12-21.md",
     "Task Management/2023-W01.md",
     "Day Planners/2022-11-26 Plan for Weekend.md",
-    "Day Planners/2022-12-07 Plan.md",
-    "Day Planners/2022-12-14 Future Plan.md"
+    "Day Planners/2022-12-07 Plan.md"
   ]
 }
