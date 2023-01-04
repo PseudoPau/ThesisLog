@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vol.2 Superposition/Vol.2 Superposition.md",
+                "file": "Day Planners/Day Planner-20230104.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vol.2 Superposition/Vol.2 Superposition.md",
+                "file": "Day Planners/Day Planner-20230104.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vol.2 Superposition/Vol.2 Superposition.md",
+                "file": "Day Planners/Day Planner-20230104.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vol.2 Superposition/Vol.2 Superposition.md"
+                "file": "Day Planners/Day Planner-20230104.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "f380319a7167607f",
   "lastOpenFiles": [
+    "Vol.2 Superposition/Vol.2 Superposition.md",
     "Vol.2 Superposition/Draft for UARTS.md",
     "Vol.2 Superposition/Draft for 562.md",
     "Logs/2023-01-03.md",
@@ -180,7 +181,6 @@
     "Task Management/2023-W01.md",
     "Day Planners/2022-11-26 Plan for Weekend.md",
     "Day Planners/2022-12-07 Plan.md",
-    "Day Planners/2022-12-14 Future Plan.md",
-    "Day Planners/2022-12-08 Plan.md"
+    "Day Planners/2022-12-14 Future Plan.md"
   ]
 }
