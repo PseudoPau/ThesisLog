@@ -3,12 +3,13 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 7:56:33 AM
+    %% Current Time: 8:16:32 AM
     section Tasks
-    go to school(2210)     :08-00, 210mm
+    exercise/stretching     :08-00, 60mm
+    do something for thesis     :09-00, 150mm
     lunch/coffee (conversation)     :11-30, 90mm
     do something for thesis     :13-00, 120mm
-    exercise, stretching     :15-00, 120mm
+    exercise/stretching     :15-00, 120mm
     dinner (tuna??)     :17-00, 120mm
     prepare for 545     :19-00, 60mm
     keep working on thesis     :20-00, 0mm
@@ -16,11 +17,20 @@ gantt
 
 ```
 
-- [ ] 08:00 go to school(2210)
+- [ ] 08:00 exercise/stretching
+- [ ] 09:00 do something for thesis
 - [ ] 11:30 lunch/coffee (conversation)
 - [ ] 13:00 do something for thesis
-- [ ] 15:00 exercise, stretching
+- [ ] 15:00 exercise/stretching
 - [ ] 17:00 dinner (tuna??)
 - [ ] 19:00 prepare for 545
 - [ ] 20:00 keep working on thesis
-- [ ] 
+
+## goal
+|item|time|
+|----|----|
+|thesis|6|
+|superposition|3|
+|exercise|2|
+|survive|3|
+|rest|2|
