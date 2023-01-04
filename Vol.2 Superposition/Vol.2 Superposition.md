@@ -12,6 +12,10 @@ drawing
 color
 diagramming
 logics
+### My audience
+my future partners
+architects
+general people
 
 ---
 ### My projects

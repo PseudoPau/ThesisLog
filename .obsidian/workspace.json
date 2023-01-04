@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2023-01-03.md",
+                "file": "Vol.2 Superposition/Vol.2 Superposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2023-01-03.md",
+                "file": "Vol.2 Superposition/Vol.2 Superposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2023-01-03.md",
+                "file": "Vol.2 Superposition/Vol.2 Superposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2023-01-03.md"
+                "file": "Vol.2 Superposition/Vol.2 Superposition.md"
               }
             }
           },
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,15 +172,15 @@
   },
   "active": "f380319a7167607f",
   "lastOpenFiles": [
-    "Logs/2022-12-21.md",
+    "Vol.2 Superposition/Draft for UARTS.md",
+    "Vol.2 Superposition/Draft for 562.md",
+    "Logs/2023-01-03.md",
     "Day Planners/Day Planner-20230103.md",
+    "Logs/2022-12-21.md",
     "Task Management/2023-W01.md",
     "Day Planners/2022-11-26 Plan for Weekend.md",
     "Day Planners/2022-12-07 Plan.md",
     "Day Planners/2022-12-14 Future Plan.md",
-    "Day Planners/2022-12-08 Plan.md",
-    "Day Planners/2022-12-06 Plan.md",
-    "Day Planners/2022-11-30 Work Plan.md",
-    "Day Planners/2022-11-29 Work Plan.md"
+    "Day Planners/2022-12-08 Plan.md"
   ]
 }

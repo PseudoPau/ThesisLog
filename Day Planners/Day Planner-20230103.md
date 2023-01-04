@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 7:33:41 PM
+    %% Current Time: 7:53:43 PM
     section Tasks
     Go get my SSD     :12-00, 120mm
     Kroger Buy food for tomorrow     :14-00, 90mm
@@ -23,3 +23,7 @@ gantt
 - [ ] 20:00 FEAST Project Updates
 - [ ] 22:00 Email to Cynthia
 - [ ] 23:00 Go to Bed
+
+## Others
+- [ ] USD Transfer
+- [ ] Packing for tomorrow
