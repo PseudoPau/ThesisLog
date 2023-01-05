@@ -146,7 +146,7 @@ Digital optics is indeed a rational metaphor for intoxication, statistical intox
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045762748396613652/PseudoPaul_spiral_staircase_leading_people_from_Mordenism_to_Gl_3fba9751-6324-463e-b328-35e9596deefa.png)
 *`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand`* | Ghost Author: MidJourney[^a] + Tarkovsky[^h]
 
-In this component, we start to think about motion, and audience. We are building stages to hold the artifacts from mission 01. Time, velocity and acceleration need to be taken into account. Motion is important. Relation need to be clarified.
+In this component, we start to think about the space where everything could happen. We are building stages to hold the artifacts from mission 01. Time, velocity and acceleration need to be taken into account. Scale and relation need to be clarified.
 Remember to keep the idea simple and straightforward. Get rid of the branches and focus on the main storyline. Keep the chaos in order.
 
 ### On Shelf ###
@@ -166,7 +166,7 @@ Remember to keep the idea simple and straightforward. Get rid of the branches an
 
 
 
-## Section 03 Looking Up##
+## Section 03 Mirrors Looking at Mirrors that Reflect Humans who Look at Mirrors ##
 **Quarry the Memories**
 
 ![](https://lebbeuswoods.files.wordpress.com/2009/12/kies-vm-2a2.jpg)
@@ -188,10 +188,10 @@ In the face of such representational open slather, the philosophical questions o
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
 *`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom`* | Ghost Author: Midjourney[^a] + Tarkovsky[^h]
 
-Point of view will be the key things for this section, so as camera lens, frames per second, motion and light tones. In other words, we are designing for cameras, a mechanical vision.
-Think about narrative seriously. Should it be a first-person or a third-person? Remember different audiences have different levels of background and knowledge base. Accessibility is as important as attracting the attention.
+Point of view will be the key things for this section, so as the lens, fps, motion and colors. Shall we go to the mountain? Or let the mountain approach us?
+Should it be a first-person or a third-person? Remember different audiences have different levels of background and knowledge base. Accessibility is as important as attracting the attention.
 Struggles can be fun, such as the video game Resident Evil and Scorn. Have fun with these walking simulators!
-We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Differentiate the geometric time, labor time and tour time. Learn something from Stalker. Create a glitch pattern and fill them with appropriate random contents. Practice the philosophy of gray boxing and  it's ok to stay non-object for sometime.
+We will start thinking about the final deliverables, a video(00:00:00), a miniature(x,y,z), a cylindrical time-space map(𝜌,𝜃,𝜁,𝜏)... Pick a good point for looping back. Differentiate the geometric time, labor time and tour time. Learn from short clips of concept art. Play with placeholders. Practice the philosophy of gray boxing and it's ok to remain non-object for sometime.
 
 ### On Shelf ###
 
@@ -210,16 +210,21 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 
 
 ## Mission 04 What is Immortal ##
-**Time, Time, Time**
+**I need your Attention**
 
 ![](https://images.squarespace-cdn.com/content/v1/56911f0d0ab377deeecbd785/1515055627051-GHU6EA6DOZ2JO9A4TQRC/IMG_1312.JPG?format=1500w)
 
 *`Screenshot from Nostalighia, 1983, Tarkovsky`*[^9]
 
-It is time to jump into post-production and stitch everything together. This component we will focus on the time: solar time, labor time, media time, time stamps, time for seeing and time for thinking. How to differentiate the different velocities of decaying? Should we bring the past into the future? When we shift between platforms, what is changed and what is not?
-	Time is embedded in materiality. How to show them?
-	Time is embedded in production. How to show them?
-	Time is embedded in narrative. How to show them?
+“The film [Stalker] needs to be slower and duller at the start so that the viewers who walked into the wrong theatre have time to leave before the main action starts.”   
+*(Andrei Tarkovsky, 2021, p.68)*[^7]
+
+In the face of such representational open slather, the philosophical questions of plausibility and implausibility override those concerning the true and the false. The shift of interest from the thing to its image, and especially from space to time, to the instant, leads to a shift in polarities from the old black-and-white real-figurative dichotomy to the more relative actual-virtual.
+*(Paul Virilio, 1984, p.70)*[^5]
+
+---
+
+
 
 
 ### Design Method ###
@@ -237,8 +242,13 @@ The architectural model-fragment in its manifestation on the stage and in exhibi
 
 ---
 
-It is time to wrap things up and come up with a good stage set for displaying. Who is the audience? What kind of fire would you like to set up? What should be shown and what should not? How to verbalize what you did in the past months?
-To publish your world. To engage others.
+Time is embedded in materiality. How to show them?
+Time is embedded in production. How to show them?
+Time is embedded in narrative. How to show them?
+
+We will focus on the time: solar time, labor time, media time, time stamps, time for seeing and time for thinking. How to differentiate the different velocities of decaying? How to bring the past into the future? When we shift between platforms, what is changed and what is not?
+
+It is time to jump into post-production and stitch everything together. It is time to think about publication. 
 
 ### On Shelf ###
 
