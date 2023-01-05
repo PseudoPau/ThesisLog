@@ -168,7 +168,7 @@ Remember to keep the idea simple and straightforward. Get rid of the branches an
 
 
 ## Section 03 Mirrors Looking at Mirrors that Reflect Humans who Look at Mirrors ##
-**Quarry the Memories**
+**Where is My Backup?**
 
 ![](https://lebbeuswoods.files.wordpress.com/2009/12/kies-vm-2a2.jpg)
  *`kiesler's drawings for vision study (1950)`*[^8][^i]
