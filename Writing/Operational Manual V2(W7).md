@@ -7,7 +7,7 @@
 **A Spectacle Adventure and A Fictional Academy**
 
 ---
-![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali](https://cdn.discordapp.com/attachments/1045538819161731102/1045546941611778090/PseudoPaul_a_fictional_auction_full_of_circus_animal_audience_i_e427e453-0957-4cbf-89f8-9b9d9f7e14e5.png)
+![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time Salvador Dali](https://cdn.midjourney.com/f0f9d65b-a598-4144-8d73-798c461f78a2/grid_0.png)
 *`a fictional auction for circus animal audience in a renovated colosseum by the eye of time`* | Ghost Author: MidJourney[^a] + Salvador Dali[^b]
 
 ---
@@ -128,8 +128,9 @@ Don't be afraid of messy desktop. Fill the disk(c:) with unexpected byproducts. 
 ## Section 02 Staging Uncertainty ##
 **Building the Colosseum**
 
-![Damjan Jovanovic](https://freight.cargo.site/w/1500/q/75/i/15872414dc909ae241bf41f567a393b60f8529fb55c600f24d4916ef827918e4/2NCMlifeformsdotio.png)
-*`_New Campo Marzio—Lifeforms_. (2021). Retrieved November 25, 2022, from [https://lifeforms.io/New-Campo-Marzio-1](https://lifeforms.io/New-Campo-Marzio-1)`*[^6]
+![a fictional auction full of circus animal audience in a renovated colosseum by the eye of time by Salvador Dali](https://cdn.midjourney.com/d2ef4c4d-a92a-45e5-8eae-16d4c21db5b4/grid_0.png)
+*`sa fictional auction full of circus animal audience in a renovated colosseum by the eye of time`* | Ghost Author: MidJourney[^a] + Salvador Dali[^h]
+
 
 The model has been displaced as an image or object which imitates the designed object yet-to-be. In a sense everything becomes a potential model.
 *(Mark Cousins, 2021)*
@@ -185,8 +186,8 @@ In the face of such representational open slather, the philosophical questions o
 ### Design Methods ###
 **Analogic, Notation, Indexical**[^g]
 
-![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
-*`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom`* | Ghost Author: Midjourney[^a] + Tarkovsky[^h]
+![](https://cdn.midjourney.com/85f35da3-cc4b-443c-b3b3-e6603306e4ec/grid_0.png)
+*`a 18th circus show displaying fake memories, architects' toolsets, legs and arms of 21st century`* | Ghost Author: Midjourney[^a] + Tarkovsky[^h]
 
 Point of view will be the key things for this section, so as the lens, fps, motion and colors. Shall we go to the mountain? Or let the mountain approach us?
 Should it be a first-person or a third-person? Remember different audiences have different levels of background and knowledge base. Accessibility is as important as attracting the attention.
@@ -216,11 +217,11 @@ We will start thinking about the final deliverables, a video(00:00:00), a miniat
 
 *`Screenshot from Nostalighia, 1983, Tarkovsky`*[^9]
 
-“The film [Stalker] needs to be slower and duller at the start so that the viewers who walked into the wrong theatre have time to leave before the main action starts.”   
-*(Andrei Tarkovsky, 2021, p.68)*[^7]
+The film [Stalker] needs to be slower and duller at the start so that the viewers who walked into the wrong theatre have time to leave before the main action starts.   
+*(Andrei Tarkovsky, n.d.)*
 
-In the face of such representational open slather, the philosophical questions of plausibility and implausibility override those concerning the true and the false. The shift of interest from the thing to its image, and especially from space to time, to the instant, leads to a shift in polarities from the old black-and-white real-figurative dichotomy to the more relative actual-virtual.
-*(Paul Virilio, 1984, p.70)*[^5]
+You have to be a child—incidentally children understand my pictures very well, and I haven’t met a serious critic who could stand knee-high to those children. We think that art demands special knowledge; we demand some higher meaning from an author, but the work must act directly on our hearts or it has no meaning at all.
+*(Andrei Tarkovsky, n.d.)*
 
 ---
 
@@ -230,9 +231,9 @@ In the face of such representational open slather, the philosophical questions o
 ### Design Method ###
 **Diagramming, Narrative**[^g]
 
-![](https://cdn.discordapp.com/attachments/1047314004369997954/1047319488086953984/PseudoPaul_academic_conference_displaying_fake_memories_archite_2f262e33-6973-43ee-85a3-c7a3aed37bed.png)
+![](https://cdn.midjourney.com/93e1ab33-34d2-4ed8-b0cb-2cd7610225ed/grid_0.png)
 
-*`academic conference displaying fake memories, architects' toolsets, legs and arms of digital doppelgangers from 18th century to 21st century`* | Ghost Author: MidJourney[^a] + Tarkovsky[^h]
+*`a 18th circus show displaying fake memories, architects' toolsets, legs and arms of 21st century`* | Ghost Author: MidJourney[^a] + Tarkovsky[^h]
 
 But the model is not the world – to say the model is habitable does not mean we should go and live there. It is just a powerful way of seeing the world. 
 *(Davies, 2021, p.37)*[^10]
@@ -262,7 +263,6 @@ It is time to jump into post-production and stitch everything together. It is ti
 ### Dates 
 |----|Date|
 |----|----|
-|Mock Up| **W6** 20221224|
 |Checking Point| **W20** 20220401|
 |Due| **W22** 20230415|
 
