@@ -26,15 +26,17 @@ Have no fear of perfection—you’ll never reach it.
 ![a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side](https://cdn.discordapp.com/attachments/1045538819161731102/1045719498793177238/PseudoPaul_a_thick_rococo_wall_is_weathering_with_a_physical_do_4678dd57-42d7-44c9-b267-22db34d7431c.png)
 *`a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side `*| Ghost Author: MidJourney[^a] + Francisco Goya[^d]
 
-We are struggling with the unlived life with all the roads not taken, as the internet kick-off a new era for modern society, one that came with the promise of unprecedented mobility.
+
+ The moment when a world was self-evident, self-sustaining and self-producing is also the time when architects could take off their hands.
+
+## "Objective Facts" ##
 
 Cloud is composed by the cultural production happening on digital platforms, structuring the new collective memory.
 Stories are maps for system thinking and critical sites for operation.
 Conversations are informal education among each other. 
-
-
-Architecture is the art of assembling disparate images into new wholes/new worlds. Reality comes with the warning that no other version will be tolerated. The moment when a world was self-sustaining and self-producing is also the time when architects could take off their hands.
-
+Architecture is the art of assembling disparate images into new wholes/new worlds. Reality comes with the warning that no other version will be tolerated.
+What should we do as humans?
+What could we do as architects?
 
 
 
