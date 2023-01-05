@@ -26,18 +26,7 @@ Have no fear of perfection—you’ll never reach it.
 ![a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side](https://cdn.discordapp.com/attachments/1045538819161731102/1045719498793177238/PseudoPaul_a_thick_rococo_wall_is_weathering_with_a_physical_do_4678dd57-42d7-44c9-b267-22db34d7431c.png)
 *`a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side `*| Ghost Author: MidJourney[^a] + Francisco Goya[^d]
 
-*Thesis* is considered the last opportunity to summarize years of learning, to both view and participate in the our discipline academically. We are the products waiting to enter the market after "quarantine".
-
-Disciplinary speaking, architecture is similar to other disciplines that there is a significant detachment between institutional study and real-world practice. In other words, the knowledge learned in school will likely be of little use in the practice, while the critical visual, verbal, legal, and financial knowledge necessary to succeed in design practice is not adequately taught as part of a curriculum, but as tacit knowledge that can only be learned from struggles and failures. Who caused the situation? What makes our learning so painful as an ordeal?
-
-We have reasons to suspect that architecture is not a self-sufficient discipline. There was little left on our curriculum once we stripped out courses that were appropriated from other disciplines. As a result, architecture students have a broader scope of focus and a more hairy skill tree than their peers. However, our outputs (built or unbuilt building projects) is too homogeneous compared to those continuous multi-form inputs. Are we lacking imagination? Why are we voluntarily bound to the narrow territory of practice? Thus new questions arise: what is an appropriate way to publish an architectural idea? What is architecture?
-
-An preliminary purpose of the thesis is to align our discipline with the contemporary context. Then the external stimuli to which we are exposed and the internal responses that arise during the learning of architecture will be examined.
-
-The ontology of architecture is difficult to identify. But this does not mean that the discipline itself is void. In this case, I would rather believe that architecture is a monument to energy and time, a physical projection of the immaterial world, a intersection of several other disciplines, or a cabinet of curiosity that encompasses everything.
-
-Project conduction will be synchronized with the writing of thesis.
-
+Architecture is the art of assembling disparate images into new wholes/new worlds. Design means setting up rubrics for decision. 
 
 
 ## Narrative ##
