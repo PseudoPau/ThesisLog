@@ -38,19 +38,11 @@ We are running naked in an unprecedented era.
 
 
 
-## Narrative ##
 
-*The project* will fictionalize a spectacle adventure at the site (00:00:00), an auction at the site of (x,y,z), and a cloud at the site of  (𝜌,𝜃,𝜁,𝜏). 
-
-The main characters are a couple of doppelgängers. One is physical inhabiting the real world and the other is digital inhabit the cloud space. 
-
-By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
 
 ![a physical doppelganger looking at his digital doppelganger split by a mirror-like weathering thick wall Gustav Klimt|](https://cdn.discordapp.com/attachments/1045538819161731102/1045562094252204072/PseudoPaul_a_physical_doppelganger_looking_at_his_digital_doppe_8293c11e-31e5-4188-a976-fc69d507155a.png)  
 *`a physical doppelganger looking at his digital doppelganger through a weathering mirror`* | Ghost Author: MidJourney[^a] + Gustav Klimt[^e]
 
-## Summary ##
-The physical doppelgänger originally inhabits the "here and now" and the digital doppelgänger inhabits the cloud. The two twins don't realize the existence of each other at the beginning of the story. They occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. and are segregated by an untitled invisible thick wall, with only a few neurons connecting both side. Walls can be interpreted as somewhat culture. The wall will weather, diverge, iterate itself and fall someday. When the physical doppelganger leave the "here and now" and steps into the world of cloud, they will experience spectacles as a looker and being looked-at at one time. When the two doppelgangers merge into one, the new individual possesses double territories with double vision.
 
 ## Resources##
 - Latour, B. (2018). *“We Don’t Seem to Live on the Same Planet” – A Fictional Planetarium.*
@@ -68,7 +60,7 @@ The physical doppelgänger originally inhabits the "here and now" and the digita
 |4|1210-1216|No Mandatory Work|-|-|
 |5|1217-1223|-|-|-|
 |6|1224-1230|Break|-|Scene|
-|7|1231-0106|-|-|Pin-up, Schedule_Manual_V2|
+|7|1231-0106|-|-|First meeting, Schedule_Manual_V2|
 |8|0107-0113|-|-|-|
 |9|0114-0120|Holiday(0116)|-|-|
 |10|0121-0127|-|-|Production_Session_1|
@@ -89,8 +81,8 @@ The physical doppelgänger originally inhabits the "here and now" and the digita
 
 
 
-## Mission 01 Bestiario##
-**Creating Beasts**
+## Section 01 Bestiario##
+**Release the Beasts**
 
 ![Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba](https://neotraba.com/wp-content/uploads/2016/04/Cavaguro.jpg)
 *`Cavaguro, animal fantástico del Profesor Revillod, foto Óscar Alarcón para Neotraba (Alarcón, 2016)`* [^f][^2]
@@ -103,8 +95,9 @@ We have to recognise that only on the condition that we abandon the concept of t
 
 ---
 
-This component is inspired by Prof. Revillod's Animanarium, which is originated for training imagination for fantasy stories.
-At this stage, we are going to invent new urban creatures derived from a set of archetypes at various scales by construction and deconstruction using some digital technics. These artificial creatures will be a blending of flesh(short life), mechanics(long life), and digital(eternal life). These artifacts will be the heroines to participate in the story.
+This component is inspired by Prof. Revillod's Animanarium, which is originated for training imagination for fantasy stories and can best describe the strange familiarity we can feel about our digital age now.
+The pursuit of rationality is important, but it is not the main purpose of this module. Therefore no more than 3 hours of adjustment time should be spent on individual individual adjustments after the generation of variants. Accept all the imperfections and move on.
+
 
 ### Design Methods ###
 **Automatism, Gestural Interpretation, Syntactical**[^g]
@@ -112,9 +105,9 @@ At this stage, we are going to invent new urban creatures derived from a set of 
 *`An endless corridor leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand `*| Ghost Author: MidJourney[^a] + Tarkovsky[^h]
 
 This module aims to exam the ideas and assemble the spectacle world within a fast mode. The goal is to create a large number of objects via permutations and combinations in a short time and should not last for more than 4 weeks.
-The pursuit of rationality is important, but it is not the main purpose of this module. Therefore no more than 3 hours of adjustment time should be spent on individual individual adjustments after the generation of variants. Accept all the imperfections and move on.
+At this stage, we are going to invent new urban creatures derived from a set of archetypes at various scales by construction and deconstruction using some digital technics. These artificial creatures will be a blending of flesh(short), mechanics(long), and digits(eternal). These artifacts will be the heroines to participate in the story.
 2D drawing is good. 3D modeling is awesome. Manual works in Rhino, Blender are accepted. Parametric programing is welcomed.
-Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. Even trash has its own meaning for existence. Trust the method and keep writing logs. They will hold the logistics.
+Don't be afraid of messy desktop. Fill the disk(c:) with unexpected byproducts. Even trash has its own meaning for existence. Trust the method. Keep writing logs.
 
 ### On Shelf ###
 - Murugarren, M., & Sáez Castán, J. (2017). _Animalario universal del Profesor Revillod: Almanaque ilustrado de la fauna mundial : miscelánea de curiosidades para disfrutar aprendiendo_ (Primera edición). Fondo de Cultura Económica.
@@ -127,14 +120,13 @@ Don't afraid of messy desktop and fill the disk(c:) with unexpected byproducts. 
 ### Dates ###
 |----|Date|
 |----|----|
-|Mock Up| **W6** 20221224|
 |Due| **W10** 20230121|
 
 
 
 
-## Mission 02 Staging Uncertainty ##
-**World Modeling**
+## Section 02 Staging Uncertainty ##
+**Building the Colosseum**
 
 ![Damjan Jovanovic](https://freight.cargo.site/w/1500/q/75/i/15872414dc909ae241bf41f567a393b60f8529fb55c600f24d4916ef827918e4/2NCMlifeformsdotio.png)
 *`_New Campo Marzio—Lifeforms_. (2021). Retrieved November 25, 2022, from [https://lifeforms.io/New-Campo-Marzio-1](https://lifeforms.io/New-Campo-Marzio-1)`*[^6]
@@ -154,8 +146,8 @@ Digital optics is indeed a rational metaphor for intoxication, statistical intox
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045762748396613652/PseudoPaul_spiral_staircase_leading_people_from_Mordenism_to_Gl_3fba9751-6324-463e-b328-35e9596deefa.png)
 *`spiral staircase leading people from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom, Contemporaneity within the hand`* | Ghost Author: MidJourney[^a] + Tarkovsky[^h]
 
-In this component, we start to build scenes for audience to perceive, and wander around. Imagine that we are building a temple that houses the collective consciousness. Every architectural element will be granted a symbolic meaning. Architecture serves as a framework to host the artifacts from mission 01. Time, velocity and acceleration need to be taken into account. Motion is important. Relation need to be clarified.
-But remember to keep the idea simple and straightforward. Get rid of the branches and only focus on the main line. Please keep the chaos in order.
+In this component, we start to think about motion, and audience. We are building stages to hold the artifacts from mission 01. Time, velocity and acceleration need to be taken into account. Motion is important. Relation need to be clarified.
+Remember to keep the idea simple and straightforward. Get rid of the branches and focus on the main storyline. Keep the chaos in order.
 
 ### On Shelf ###
 - Hockney, D. (2001). _Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters_ (1st ed.). Viking Studio.
@@ -168,15 +160,14 @@ But remember to keep the idea simple and straightforward. Get rid of the branche
 ### Dates 
 |----|Date|
 |----|----|
-|Mock Up| **W6** 20221224|
 |Checking Point| **W13** 20220211|
 |Due| **W16** 20230304
 
 
 
 
-## Mission 03 Furnishing the Quarry##
-**Coming Together**
+## Section 03 Looking Up##
+**Quarry the Memories**
 
 ![](https://lebbeuswoods.files.wordpress.com/2009/12/kies-vm-2a2.jpg)
  *`kiesler's drawings for vision study (1950)`*[^8][^i]
@@ -197,10 +188,10 @@ In the face of such representational open slather, the philosophical questions o
 ![](https://cdn.discordapp.com/attachments/1045538819161731102/1045875727213535332/PseudoPaul_an_auction_venue_for_artifacts_of_Contemporanneity_f_27ff1b1f-cc47-41c9-8266-2a090506738d.png)
 *`an auction venue for artifacts of Contemporanneity from Mordenism to Globalization with Anthropocene at left, Territory at right, Exit at the top, Security at the bottom`* | Ghost Author: Midjourney[^a] + Tarkovsky[^h]
 
-Point of view will be the key things, so as camera lens, frames per second, motion and light tones. In other words, we are designing for cameras, a mechanical vision.
+Point of view will be the key things for this section, so as camera lens, frames per second, motion and light tones. In other words, we are designing for cameras, a mechanical vision.
 Think about narrative seriously. Should it be a first-person or a third-person? Remember different audiences have different levels of background and knowledge base. Accessibility is as important as attracting the attention.
 Struggles can be fun, such as the video game Resident Evil and Scorn. Have fun with these walking simulators!
-We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Differentiate the geometric time, labor time and tour time. Learn something from Stalker. Create a glitch pattern and fill them with appropriate random contents. Practice the philosophy of greyboxing and  it's ok to stay non-object for sometime.
+We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pick a good site for looping back. Differentiate the geometric time, labor time and tour time. Learn something from Stalker. Create a glitch pattern and fill them with appropriate random contents. Practice the philosophy of gray boxing and  it's ok to stay non-object for sometime.
 
 ### On Shelf ###
 
@@ -214,7 +205,6 @@ We will start from the origin, (00:00:00), (x,y,z) or (𝜌,𝜃,𝜁,𝜏). Pic
 ### Dates ###
 |----|Date|
 |----|----|
-|Mock Up| **W6** 20221224|
 |Checking Point| **W13** 20220211|
 |Due| **W19** 20230325
 
