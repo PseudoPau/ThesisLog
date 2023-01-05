@@ -27,37 +27,30 @@ Have no fear of perfection—you’ll never reach it.
 *`a thick rococo weathering wall with a physical doppelganger in one side and a fragmented mechanical doppelganger halfly in the wall in the other side `*| Ghost Author: MidJourney[^a] + Francisco Goya[^d]
 
 
- The moment when a world was self-evident, self-sustaining and self-producing is also the time when architects could take off their hands.
 
-## "Objective Facts" ##
 
+## Position ##
 Cloud is composed by the cultural production happening on digital platforms, structuring the new collective memory.
 Stories are maps for system thinking and critical sites for operation.
 Conversations are informal education among each other. 
 Architecture is the art of assembling disparate images into new wholes/new worlds. Reality comes with the warning that no other version will be tolerated.
-What should we do as humans?
-What could we do as architects?
+We are running naked in an unprecedented era. 
 
-
-
-
-Huge amounts of energy and natural resources are funneled to servers and data centers instead of "production and reproduction".
-
-strange sensation of being alive in a time that just doesn't feel quite right
 
 
 ## Narrative ##
 
 *The project* will fictionalize a spectacle adventure at the site (00:00:00), an auction at the site of (x,y,z), and a cloud at the site of  (𝜌,𝜃,𝜁,𝜏). 
 
-The project will tell the adventure of a physical doppelganger who escapes the trap of culture and finds their digital doppelganger to merge into a complete individual who occupies the double space and has a double vision.
+The main characters are a couple of doppelgängers. One is physical inhabiting the real world and the other is digital inhabit the cloud space. 
 
 By portraying the formation, perception, distinction and interplay of the double self-images of the physical and the digital twins, the project indicates the technics, theories, aesthetics and values of the orthographic are universal to the ones in the digital age. The project aspires to bring spotlights to vision, screen and surface as significant elements to think of in thriving the built environment.
 
 ![a physical doppelganger looking at his digital doppelganger split by a mirror-like weathering thick wall Gustav Klimt|](https://cdn.discordapp.com/attachments/1045538819161731102/1045562094252204072/PseudoPaul_a_physical_doppelganger_looking_at_his_digital_doppe_8293c11e-31e5-4188-a976-fc69d507155a.png)  
 *`a physical doppelganger looking at his digital doppelganger through a weathering mirror`* | Ghost Author: MidJourney[^a] + Gustav Klimt[^e]
 
-The physical doppelganger originally inhabits the "here and now" and the digital doppelganger inhabits the cloud. The two twins don't realize the existence of each other at the beginning of the story. They occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. and are segregated by an untitled invisible thick wall, with only a few neurons connecting both side. Walls can be interpreted as somewhat culture. The wall will weather, diverge, iterate itself and fall someday. When the physical doppelganger leave the "here and now" and steps into the world of cloud, they will experience spectacles as a looker and being looked-at at one time. When the two doppelgangers merge into one, the new individual possesses double territories with double vision.
+## Summary ##
+The physical doppelgänger originally inhabits the "here and now" and the digital doppelgänger inhabits the cloud. The two twins don't realize the existence of each other at the beginning of the story. They occupy different territories, have different appearances, sizes and lifespans, but share the same set of vision, perception and memory. and are segregated by an untitled invisible thick wall, with only a few neurons connecting both side. Walls can be interpreted as somewhat culture. The wall will weather, diverge, iterate itself and fall someday. When the physical doppelganger leave the "here and now" and steps into the world of cloud, they will experience spectacles as a looker and being looked-at at one time. When the two doppelgangers merge into one, the new individual possesses double territories with double vision.
 
 ## Resources##
 - Latour, B. (2018). *“We Don’t Seem to Live on the Same Planet” – A Fictional Planetarium.*
