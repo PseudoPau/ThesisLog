@@ -28,11 +28,15 @@ Have no fear of perfection—you’ll never reach it.
 
 
 Cloud is composed by the cultural production happening on digital platforms, structuring the new collective memory.
-Stories are critical sites for operation.
+
+Stories are maps for system thinking critical sites for operation.
 Conversations are informal education among each other.
-Design means setting up rubrics for decision.
+
+Design means setting up rubrics and making decision.
 Architecture is the art of assembling disparate images into new wholes. 
 
+
+Huge amounts of energy and natural resources are funneled to servers and data centers instead of "production and reproduction".
 
 
 ## Narrative ##
