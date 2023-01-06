@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Operational Manual V2(W7).md",
+                "file": "Day Planners/Day Planner-20230105.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Operational Manual V2(W7).md",
+                "file": "Day Planners/Day Planner-20230105.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Operational Manual V2(W7).md",
+                "file": "Day Planners/Day Planner-20230105.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Operational Manual V2(W7).md"
+                "file": "Day Planners/Day Planner-20230105.md"
               }
             }
           },
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +172,10 @@
   },
   "active": "834ab0d093c90624",
   "lastOpenFiles": [
+    "Writing/Operational Manual V2(W7).md",
     "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
     "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.png",
     "Logs/2023-01-05.md",
-    "Writing/Operational Manual V2(W7).md",
     "Writing/Operational Manual.md",
     "Brief.md",
     "Logs/ARCH 545.md",
