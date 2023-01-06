@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230105.md",
+                "file": "Logs/2023-01-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "424a7d3f06206d3a",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230105.md",
+                "file": "Logs/2023-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230105.md",
+                "file": "Logs/2023-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230105.md"
+                "file": "Logs/2023-01-05.md"
               }
             }
           },
@@ -172,6 +173,7 @@
   },
   "active": "834ab0d093c90624",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230105.md",
     "Writing/Operational Manual V2(W7).md",
     "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
     "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.png",
@@ -180,7 +182,6 @@
     "Brief.md",
     "Logs/ARCH 545.md",
     "Logs/2022-12-21.md",
-    "Logs/ARCH 509-016.md",
-    "Day Planners/Day Planner-20230104.md"
+    "Logs/ARCH 509-016.md"
   ]
 }
