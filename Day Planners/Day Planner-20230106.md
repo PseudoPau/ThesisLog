@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 10:59:57 PM
+    %% Current Time: 11:20:57 PM
     section Tasks
     wake up     :06-00, 90mm
     get up     :07-30, 60mm
