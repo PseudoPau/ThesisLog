@@ -11,9 +11,11 @@
             "id": "834ab0d093c90624",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md"
+                "file": "Day Planners/Day Planner-20230107.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
+                "file": "Day Planners/Day Planner-20230107.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
+                "file": "Day Planners/Day Planner-20230107.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md"
+                "file": "Day Planners/Day Planner-20230107.md"
               }
             }
           },
@@ -170,8 +172,8 @@
   },
   "active": "834ab0d093c90624",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.png",
     "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
+    "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.png",
     "Brief.md",
     "Writing/Operational Manual.md",
     "Reading notes/@Spyropoulos_Everything_2021.md",
