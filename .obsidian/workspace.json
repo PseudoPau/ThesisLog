@@ -11,11 +11,9 @@
             "id": "834ab0d093c90624",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Day Planners/Day Planner-20230108.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230108.md",
+                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230108.md",
+                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230108.md"
+                "file": "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md"
               }
             }
           },
@@ -172,6 +170,7 @@
   },
   "active": "834ab0d093c90624",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230108.md",
     "Day Planners/Day Planner-20230107.md",
     "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.md",
     "Excalidraw/Drawing 2022-12-02 12.41.40.excalidraw.png",
@@ -180,7 +179,6 @@
     "Reading notes/@Spyropoulos_Everything_2021.md",
     "Day Planners/Day Planner-20230106.md",
     "Logs/2023-01-05.md",
-    "Day Planners/Day Planner-20230105.md",
-    "Writing/Operational Manual V2(W7).md"
+    "Day Planners/Day Planner-20230105.md"
   ]
 }
