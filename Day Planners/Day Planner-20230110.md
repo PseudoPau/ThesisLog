@@ -3,19 +3,17 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 1:09:03 PM
+    %% Current Time: 4:17:04 PM
     section Tasks
-    thesis reflection/todo list/pre-production list(1h)     :12-30, 60mm
-    portfolio writing/layout(3h)     :13-30, 180mm
-    thesis drawing(2h)     :16-30, 120mm
+    portfolio writing(2h)     :12-30, 240mm
+    thesis reflection/todo list/pre-production list(2h)     :16-30, 120mm
     home, dinner, stretching     :18-30, 150mm
     prepare for 509 elective     :21-00, 0mm
     section Breaks
 
 ```
 
-- [ ] 12:30 thesis reflection/todo list/pre-production list(1h)
-- [ ] 13:30 portfolio writing/layout(3h)
-- [ ] 16:30 thesis drawing(2h)
+- [x] 12:30 portfolio writing(2h)
+- [ ] 16:30 thesis reflection/todo list/pre-production list(2h)
 - [ ] 18:30 home, dinner, stretching
 - [ ] 21:00 prepare for 509 elective

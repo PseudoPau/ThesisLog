@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading notes/@Spyropoulos_Everything_2021.md",
+                "file": "Writing/Operational Manual V2(W7).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@Spyropoulos_Everything_2021.md",
+                "file": "Writing/Operational Manual V2(W7).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading notes/@Spyropoulos_Everything_2021.md",
+                "file": "Writing/Operational Manual V2(W7).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading notes/@Spyropoulos_Everything_2021.md"
+                "file": "Writing/Operational Manual V2(W7).md"
               }
             }
           },
@@ -173,15 +173,15 @@
   },
   "active": "187ef9c87b4d53c0",
   "lastOpenFiles": [
+    "Writing/Operational Manual.md",
+    "Day Planners/Day Planner-20230110.md",
+    "Reading notes/@Spyropoulos_Everything_2021.md",
     "Reading notes/@latour_we_2018.md",
     "Day Planners/Day Planner-20230107.md",
     "Day Planners/Day Planner-20230106.md",
     "Day Planners/Day Planner-20230105.md",
     "Day Planners/Day Planner-20230104.md",
     "Day Planners/Day Planner-20230103.md",
-    "Day Planners/2022-11-22_Setting Up.md",
-    "Day Planners/2022-11-21_Obsidian Learning.md",
-    "Export/Drawing 2022-12-02 12.41.40.excalidraw.png",
-    "Export/Operational Manual V2(W7).pdf"
+    "Day Planners/2022-11-22_Setting Up.md"
   ]
 }
