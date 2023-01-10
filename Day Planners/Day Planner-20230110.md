@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:47:59 PM
+    %% Current Time: 1:09:03 PM
     section Tasks
     thesis reflection/todo list/pre-production list(1h)     :12-30, 60mm
     portfolio writing/layout(3h)     :13-30, 180mm
